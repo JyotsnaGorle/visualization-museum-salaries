@@ -1,0 +1,7702 @@
+[
+ {
+   "city": "New York State",
+   "amount": "68,000"
+ },
+ {
+   "city": "Albany, NY",
+   "amount": "54000"
+ },
+ {
+   "city": "Albuquerque",
+   "amount": "15"
+ },
+ {
+   "city": "Alexandria",
+   "amount": "$32,000"
+ },
+ {
+   "city": "Allentown",
+   "amount": "45,650"
+ },
+ {
+   "city": "Allentown, PA",
+   "amount": "41,000"
+ },
+ {
+   "city": "Allentown, PA",
+   "amount": "45,000.00"
+ },
+ {
+   "city": "Alta Loma",
+   "amount": "47,000"
+ },
+ {
+   "city": "Alta Loma",
+   "amount": "47,000"
+ },
+ {
+   "city": "Amherst",
+   "amount": "$12.50/hour"
+ },
+ {
+   "city": "Anchorage",
+   "amount": "55,000"
+ },
+ {
+   "city": "Andover",
+   "amount": "38,000"
+ },
+ {
+   "city": "Ann Arbor",
+   "amount": "40800"
+ },
+ {
+   "city": "Ann Arbor",
+   "amount": "82,810"
+ },
+ {
+   "city": "Ann Arbor",
+   "amount": "$54.11"
+ },
+ {
+   "city": "Ann Arbor, MI",
+   "amount": "$38,000"
+ },
+ {
+   "city": "Annandale-on-Hudson",
+   "amount": "$56,000"
+ },
+ {
+   "city": "Arizona",
+   "amount": "35,000"
+ },
+ {
+   "city": "Arlington, VA",
+   "amount": "$102,477"
+ },
+ {
+   "city": "Ashburton",
+   "amount": "57460"
+ },
+ {
+   "city": "Asheville",
+   "amount": "$10"
+ },
+ {
+   "city": "Aspen",
+   "amount": "$20"
+ },
+ {
+   "city": "Athens",
+   "amount": "Same"
+ },
+ {
+   "city": "Athens",
+   "amount": "9.23/hour"
+ },
+ {
+   "city": "ATL",
+   "amount": "$27,500.00"
+ },
+ {
+   "city": "Atlanta",
+   "amount": "31,000"
+ },
+ {
+   "city": "Atlanta",
+   "amount": "$38,500"
+ },
+ {
+   "city": "Atlanta",
+   "amount": "$38,500"
+ },
+ {
+   "city": "Atlanta",
+   "amount": "70,000"
+ },
+ {
+   "city": "Atlanta",
+   "amount": "46121"
+ },
+ {
+   "city": "Atlanta",
+   "amount": "45,760"
+ },
+ {
+   "city": "Atlanta",
+   "amount": "35000"
+ },
+ {
+   "city": "Atlanta",
+   "amount": "40,000"
+ },
+ {
+   "city": "Atlanta",
+   "amount": "$12/ hrs"
+ },
+ {
+   "city": "Auburn, WA",
+   "amount": "20.6"
+ },
+ {
+   "city": "Auckland",
+   "amount": "80,398"
+ },
+ {
+   "city": "Auckland",
+   "amount": "77000 NZD"
+ },
+ {
+   "city": "Auckland",
+   "amount": "Around $40000 NZ"
+ },
+ {
+   "city": "Auckland",
+   "amount": "64800"
+ },
+ {
+   "city": "Auckland",
+   "amount": "$61120 NZD"
+ },
+ {
+   "city": "Auckland",
+   "amount": "63000"
+ },
+ {
+   "city": "Auckland",
+   "amount": "NZ$49,990"
+ },
+ {
+   "city": "Austin",
+   "amount": "$58,000"
+ },
+ {
+   "city": "Austin",
+   "amount": "$41,000"
+ },
+ {
+   "city": "Austin",
+   "amount": "$36,000.00"
+ },
+ {
+   "city": "Austin",
+   "amount": "$46,000.00"
+ },
+ {
+   "city": "Austin",
+   "amount": "47,000 (lef position 2011)"
+ },
+ {
+   "city": "Austin",
+   "amount": "$48,000.00"
+ },
+ {
+   "city": "Austin",
+   "amount": "35,700"
+ },
+ {
+   "city": "Austin MB",
+   "amount": "45,000"
+ },
+ {
+   "city": "Austin, TX",
+   "amount": "$35,367"
+ },
+ {
+   "city": "Avignon",
+   "amount": "2,200 €"
+ },
+ {
+   "city": "Baltimore",
+   "amount": "$13/hr"
+ },
+ {
+   "city": "Baltimore",
+   "amount": "40,000"
+ },
+ {
+   "city": "Baltimore",
+   "amount": "$17/hr"
+ },
+ {
+   "city": "Baltimore",
+   "amount": "11/hr"
+ },
+ {
+   "city": "Baltimore",
+   "amount": "$40,000"
+ },
+ {
+   "city": "Baltimore",
+   "amount": "37000"
+ },
+ {
+   "city": "Baltimore",
+   "amount": "46500"
+ },
+ {
+   "city": "Baltimore",
+   "amount": "$14.33"
+ },
+ {
+   "city": "baltimore",
+   "amount": "25000"
+ },
+ {
+   "city": "Baltimore",
+   "amount": "31,600"
+ },
+ {
+   "city": "Baltimore",
+   "amount": "$17.37/hour"
+ },
+ {
+   "city": "Baltimore, Md",
+   "amount": "33,000"
+ },
+ {
+   "city": "Baton Rouge",
+   "amount": "$62,000"
+ },
+ {
+   "city": "Bay Area",
+   "amount": "67,000"
+ },
+ {
+   "city": "Beaverton",
+   "amount": "$84K"
+ },
+ {
+   "city": "Belle Fourche",
+   "amount": "$26,748.00"
+ },
+ {
+   "city": "Belton",
+   "amount": "61,050"
+ },
+ {
+   "city": "Benicia",
+   "amount": "$18/hour"
+ },
+ {
+   "city": "Bennington, Vermont",
+   "amount": "32960"
+ },
+ {
+   "city": "BENTONVILLE",
+   "amount": "$45,000"
+ },
+ {
+   "city": "Bentonville",
+   "amount": "$16/hr"
+ },
+ {
+   "city": "Bentonville, AR",
+   "amount": "$17.54"
+ },
+ {
+   "city": "Bentonville, AR",
+   "amount": "$91,000.00"
+ },
+ {
+   "city": "Bentonville, AR",
+   "amount": "$57,750.00"
+ },
+ {
+   "city": "Berkeley",
+   "amount": "49,000"
+ },
+ {
+   "city": "Berlin",
+   "amount": "2,5 €/h"
+ },
+ {
+   "city": "Berlin",
+   "amount": "same"
+ },
+ {
+   "city": "Berlin (working worldwide)",
+   "amount": "26€/hour (40-50k/year)"
+ },
+ {
+   "city": "Bethlehem",
+   "amount": "$12"
+ },
+ {
+   "city": "Bethlehem, PA",
+   "amount": "$15/hour"
+ },
+ {
+   "city": "Bexhill-on-Sea",
+   "amount": "23000 GBP"
+ },
+ {
+   "city": "Birmingham, AL",
+   "amount": "35,000"
+ },
+ {
+   "city": "Blackstone, VA",
+   "amount": "$22 per hour"
+ },
+ {
+   "city": "Bloomfield Hills",
+   "amount": "33,000"
+ },
+ {
+   "city": "Bloomington",
+   "amount": "63000"
+ },
+ {
+   "city": "Boone",
+   "amount": "$28,500.00"
+ },
+ {
+   "city": "Boston",
+   "amount": "$18/hr"
+ },
+ {
+   "city": "Boston",
+   "amount": "55,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "77400"
+ },
+ {
+   "city": "Boston",
+   "amount": "$42,000.00"
+ },
+ {
+   "city": "Boston",
+   "amount": "$52,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "37000 plus 15% commission"
+ },
+ {
+   "city": "Boston",
+   "amount": "$32,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "23.15/h"
+ },
+ {
+   "city": "Boston",
+   "amount": "$37,800"
+ },
+ {
+   "city": "Boston",
+   "amount": "$114,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "37,500"
+ },
+ {
+   "city": "Boston",
+   "amount": "42,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "32,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "$51,200"
+ },
+ {
+   "city": "Boston",
+   "amount": "$80,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "$52,500+bonuses (~5K)"
+ },
+ {
+   "city": "Boston",
+   "amount": "35,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "51,600"
+ },
+ {
+   "city": "Boston",
+   "amount": "82,737"
+ },
+ {
+   "city": "Boston",
+   "amount": "72000"
+ },
+ {
+   "city": "Boston",
+   "amount": "49,500"
+ },
+ {
+   "city": "Boston",
+   "amount": "49,500"
+ },
+ {
+   "city": "Boston",
+   "amount": "$83,500.00"
+ },
+ {
+   "city": "Boston",
+   "amount": "$83,000.00"
+ },
+ {
+   "city": "Boston",
+   "amount": "$52,000.00"
+ },
+ {
+   "city": "Boston",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "Boston",
+   "amount": "$41,000.00"
+ },
+ {
+   "city": "Boston",
+   "amount": "$12"
+ },
+ {
+   "city": "Boston",
+   "amount": "$49,500.00"
+ },
+ {
+   "city": "Boston",
+   "amount": "42000"
+ },
+ {
+   "city": "Boston",
+   "amount": "73,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "$50,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "$39,000 (2014)"
+ },
+ {
+   "city": "Boston",
+   "amount": "39,104"
+ },
+ {
+   "city": "Boston",
+   "amount": "51500"
+ },
+ {
+   "city": "Boston",
+   "amount": "54,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "$45,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "63,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "$71,000.00"
+ },
+ {
+   "city": "Boston",
+   "amount": "60,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "2019"
+ },
+ {
+   "city": "Boston",
+   "amount": "$67,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "41,000.00"
+ },
+ {
+   "city": "Boston",
+   "amount": "69,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "55,500"
+ },
+ {
+   "city": "Boston",
+   "amount": "28k"
+ },
+ {
+   "city": "Boston",
+   "amount": "50,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "14.09"
+ },
+ {
+   "city": "Boston",
+   "amount": "46000"
+ },
+ {
+   "city": "Boston",
+   "amount": "$59,000.00"
+ },
+ {
+   "city": "Boston",
+   "amount": "$37,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "$56,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "65,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "$64,000"
+ },
+ {
+   "city": "Boston",
+   "amount": "$12.50/hr"
+ },
+ {
+   "city": "Boston, MA",
+   "amount": "42,000"
+ },
+ {
+   "city": "Boston, MA",
+   "amount": "50,000"
+ },
+ {
+   "city": "Boston, MA",
+   "amount": "18.5"
+ },
+ {
+   "city": "Boston, MA",
+   "amount": "$23,000"
+ },
+ {
+   "city": "Boston, Massachusetts",
+   "amount": "35,000"
+ },
+ {
+   "city": "Boulder",
+   "amount": "$15.50"
+ },
+ {
+   "city": "Boulder",
+   "amount": "50,000"
+ },
+ {
+   "city": "Bronx",
+   "amount": "$42,000"
+ },
+ {
+   "city": "Bronx",
+   "amount": "22,000"
+ },
+ {
+   "city": "Bronx, NY",
+   "amount": "25/hr"
+ },
+ {
+   "city": "Bronx, NY",
+   "amount": "73,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "38,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "$0.00"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "$22/hr"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "20"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "$25.00/hr"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "20.33/hr"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "$40,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "40,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "50,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "45,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "35,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "51,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "$43,000.00"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "$43,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "$18.00"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "40,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "$30/hr"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "Unpaid"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "34,560"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "40,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "$36,000.00 (2014)"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "36,000 ended in 2013"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "68,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "$44,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "5000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "$22,000"
+ },
+ {
+   "city": "Brooklyn",
+   "amount": "55K"
+ },
+ {
+   "city": "Brooklyn Museum",
+   "amount": "$47,000"
+ },
+ {
+   "city": "Brooklyn, NY",
+   "amount": "$28,000.00"
+ },
+ {
+   "city": "Brooklyn, NY",
+   "amount": "34,000"
+ },
+ {
+   "city": "Brooklyn, NYC",
+   "amount": "32,000 and 10% commission on event net revenue. After taxes, the average was $35,000."
+ },
+ {
+   "city": "Brussels",
+   "amount": "28200 EUR"
+ },
+ {
+   "city": "bucharest",
+   "amount": "210 €"
+ },
+ {
+   "city": "Budapest",
+   "amount": "165 000 HUF (576,14$ ) per month"
+ },
+ {
+   "city": "Buenos Aires",
+   "amount": "494"
+ },
+ {
+   "city": "Buffalo",
+   "amount": "39,000"
+ },
+ {
+   "city": "Buffalo",
+   "amount": "39,000"
+ },
+ {
+   "city": "Buffalo",
+   "amount": "14,000"
+ },
+ {
+   "city": "Buffalo",
+   "amount": "12,000"
+ },
+ {
+   "city": "Buffalo, NY",
+   "amount": "40,000"
+ },
+ {
+   "city": "Calgary",
+   "amount": "50000 CAD"
+ },
+ {
+   "city": "California",
+   "amount": "35,500"
+ },
+ {
+   "city": "California",
+   "amount": "$17.00"
+ },
+ {
+   "city": "Cambridge",
+   "amount": "$26"
+ },
+ {
+   "city": "Cambridge",
+   "amount": "60,185"
+ },
+ {
+   "city": "Cambridge",
+   "amount": "$52,000.00"
+ },
+ {
+   "city": "Cambridge",
+   "amount": "65,000"
+ },
+ {
+   "city": "Cambridge",
+   "amount": "$73,000"
+ },
+ {
+   "city": "Cambridge",
+   "amount": "$48,500.00"
+ },
+ {
+   "city": "Cambridge MA",
+   "amount": "53,000"
+ },
+ {
+   "city": "Cambridge, MA",
+   "amount": "13.50/hr"
+ },
+ {
+   "city": "Cambridge, MA",
+   "amount": "$31,543"
+ },
+ {
+   "city": "Cambridge, MA",
+   "amount": "$47,000.00"
+ },
+ {
+   "city": "Cambridge, MA",
+   "amount": "$52,900"
+ },
+ {
+   "city": "Cedar Rapids Iowa",
+   "amount": "34,000"
+ },
+ {
+   "city": "Central CT",
+   "amount": "$30,000"
+ },
+ {
+   "city": "Central Jersy",
+   "amount": "$40,000"
+ },
+ {
+   "city": "Champaign-Urbana",
+   "amount": "$9.27"
+ },
+ {
+   "city": "Champaign, IL",
+   "amount": "$45,407"
+ },
+ {
+   "city": "Champaign, IL",
+   "amount": "70,191"
+ },
+ {
+   "city": "Champaign, IL",
+   "amount": "2019"
+ },
+ {
+   "city": "Champaign, IL",
+   "amount": "39985"
+ },
+ {
+   "city": "Champaign, IL",
+   "amount": "50501"
+ },
+ {
+   "city": "Champaign, IL",
+   "amount": "64515"
+ },
+ {
+   "city": "Champaign, IL",
+   "amount": "73315"
+ },
+ {
+   "city": "Champaign, IL",
+   "amount": "58987"
+ },
+ {
+   "city": "Champaign, IL",
+   "amount": "65967"
+ },
+ {
+   "city": "Champaign, IL",
+   "amount": "44000"
+ },
+ {
+   "city": "Champaign, IL",
+   "amount": "59219"
+ },
+ {
+   "city": "Champaign, IL",
+   "amount": "47951"
+ },
+ {
+   "city": "Champaign, IL",
+   "amount": "150000"
+ },
+ {
+   "city": "Chapel Hill",
+   "amount": "70,000.00"
+ },
+ {
+   "city": "Charleston, SC",
+   "amount": "$50,000"
+ },
+ {
+   "city": "CHARLOTTE",
+   "amount": "30,000"
+ },
+ {
+   "city": "Charlotte, NC",
+   "amount": "$27,040"
+ },
+ {
+   "city": "Charlottesville",
+   "amount": "$14/hr"
+ },
+ {
+   "city": "Charlottesville",
+   "amount": "$17.08"
+ },
+ {
+   "city": "Chattanooga",
+   "amount": "6,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$18/hr"
+ },
+ {
+   "city": "Chicago",
+   "amount": "46,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "Chicago",
+   "amount": "12/hr"
+ },
+ {
+   "city": "Chicago",
+   "amount": "55000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "50,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$52,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$23/hr, 950 hours per year"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$46,350.00"
+ },
+ {
+   "city": "Chicago",
+   "amount": "38,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$36,000.00"
+ },
+ {
+   "city": "Chicago",
+   "amount": "50,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "21.47/hour"
+ },
+ {
+   "city": "Chicago",
+   "amount": "21.47/hour"
+ },
+ {
+   "city": "Chicago",
+   "amount": "62,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$48,000.00"
+ },
+ {
+   "city": "Chicago",
+   "amount": "20/hr"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$36,250.00"
+ },
+ {
+   "city": "Chicago",
+   "amount": "44,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "94,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "38000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$21.04"
+ },
+ {
+   "city": "Chicago",
+   "amount": "41,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "47,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$48,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$27,000.00"
+ },
+ {
+   "city": "Chicago",
+   "amount": "16.00 an hour"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$37,000.00"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$14hr"
+ },
+ {
+   "city": "Chicago",
+   "amount": "2018"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$50,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "52,364"
+ },
+ {
+   "city": "Chicago",
+   "amount": "58,500"
+ },
+ {
+   "city": "Chicago",
+   "amount": "12.5"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$27,000.00"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$18/hr"
+ },
+ {
+   "city": "Chicago",
+   "amount": "50,870"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$14/hr"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$18.18/hr"
+ },
+ {
+   "city": "Chicago",
+   "amount": "48,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$20 per hour"
+ },
+ {
+   "city": "Chicago",
+   "amount": "2019"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$48,687"
+ },
+ {
+   "city": "Chicago",
+   "amount": "60,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "51,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "40,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "40,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$17.54"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$42,500.00"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$45,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "59,580"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$37,870"
+ },
+ {
+   "city": "Chicago",
+   "amount": "41,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "41,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$65,000.00"
+ },
+ {
+   "city": "Chicago",
+   "amount": "42,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "31,486"
+ },
+ {
+   "city": "Chicago",
+   "amount": "31000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$13.50"
+ },
+ {
+   "city": "Chicago",
+   "amount": "43,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "40k"
+ },
+ {
+   "city": "CHICAGO",
+   "amount": "$38,000.00"
+ },
+ {
+   "city": "Chicago",
+   "amount": "32000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$38,272"
+ },
+ {
+   "city": "Chicago",
+   "amount": "34,320"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$12 per hour"
+ },
+ {
+   "city": "Chicago",
+   "amount": "35,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$58,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$12.50"
+ },
+ {
+   "city": "Chicago",
+   "amount": "55,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$20 per hour"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$20/hr"
+ },
+ {
+   "city": "Chicago",
+   "amount": "39,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$21.41/hr."
+ },
+ {
+   "city": "Chicago",
+   "amount": "49,500"
+ },
+ {
+   "city": "Chicago",
+   "amount": "35,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "43K"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$11 an hour"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$25/hr"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$0"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$30/hr"
+ },
+ {
+   "city": "Chicago",
+   "amount": "33,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$17/hr."
+ },
+ {
+   "city": "Chicago",
+   "amount": "$14.00"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$24/hour"
+ },
+ {
+   "city": "Chicago",
+   "amount": "approx. $36,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$35,000.00"
+ },
+ {
+   "city": "Chicago",
+   "amount": "36,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "50,000"
+ },
+ {
+   "city": "Chicago",
+   "amount": "$10 per hour (1992)"
+ },
+ {
+   "city": "Chisinau",
+   "amount": "200$"
+ },
+ {
+   "city": "Cincinnati",
+   "amount": "$38,000"
+ },
+ {
+   "city": "Cincinnati",
+   "amount": "37000"
+ },
+ {
+   "city": "Cincinnati",
+   "amount": "30,000"
+ },
+ {
+   "city": "City",
+   "amount": "Current (2019) or Ending Salary"
+ },
+ {
+   "city": "Ciudad Autónoma de Buenos Aires",
+   "amount": "447,38 US$"
+ },
+ {
+   "city": "Clarksville",
+   "amount": "$52,000.00"
+ },
+ {
+   "city": "Clarksville, Tennessee",
+   "amount": "26,000"
+ },
+ {
+   "city": "Clarksville, TN",
+   "amount": "36,000"
+ },
+ {
+   "city": "Cleveland",
+   "amount": "40,000"
+ },
+ {
+   "city": "Cleveland",
+   "amount": "49000"
+ },
+ {
+   "city": "Cleveland",
+   "amount": "$43,500"
+ },
+ {
+   "city": "Cleveland",
+   "amount": "60,000"
+ },
+ {
+   "city": "Cleveland",
+   "amount": "54,000"
+ },
+ {
+   "city": "Cleveland",
+   "amount": "$15.50/hr"
+ },
+ {
+   "city": "Cleveland",
+   "amount": "34,000"
+ },
+ {
+   "city": "Cleveland, OH",
+   "amount": "$66,340"
+ },
+ {
+   "city": "Colchester",
+   "amount": "N/A"
+ },
+ {
+   "city": "College Park",
+   "amount": "$11.70 / hr"
+ },
+ {
+   "city": "Colorado",
+   "amount": "$20/ hr"
+ },
+ {
+   "city": "Columbia, SC",
+   "amount": "42,000"
+ },
+ {
+   "city": "Columbus",
+   "amount": "35,000 2016 (promoted to Associate Registrar)"
+ },
+ {
+   "city": "Columbus, OH",
+   "amount": "$0"
+ },
+ {
+   "city": "Columbus, OH",
+   "amount": "same"
+ },
+ {
+   "city": "Columbus, OH",
+   "amount": "$47,000"
+ },
+ {
+   "city": "Cooperstown",
+   "amount": "33,190"
+ },
+ {
+   "city": "Cooperstown, NY",
+   "amount": "52,000"
+ },
+ {
+   "city": "Council Bluffs, IA",
+   "amount": "32,000"
+ },
+ {
+   "city": "Courbevoie",
+   "amount": "1600 Euros"
+ },
+ {
+   "city": "D.C.",
+   "amount": "35500"
+ },
+ {
+   "city": "Dallas",
+   "amount": "56,000"
+ },
+ {
+   "city": "Dallas",
+   "amount": "$20.10/hour"
+ },
+ {
+   "city": "Dallas",
+   "amount": "50,000"
+ },
+ {
+   "city": "Dallas",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "Dallas",
+   "amount": "48,880"
+ },
+ {
+   "city": "Dallas",
+   "amount": "47,000"
+ },
+ {
+   "city": "Dallas",
+   "amount": "61,200"
+ },
+ {
+   "city": "Dallas",
+   "amount": "78,000"
+ },
+ {
+   "city": "Dallas",
+   "amount": "$37,000"
+ },
+ {
+   "city": "Dallas",
+   "amount": "40,000"
+ },
+ {
+   "city": "Dallas",
+   "amount": "$50,000"
+ },
+ {
+   "city": "Dallas",
+   "amount": "40000"
+ },
+ {
+   "city": "Dayton",
+   "amount": "35,000"
+ },
+ {
+   "city": "Dayton",
+   "amount": "2019"
+ },
+ {
+   "city": "Dayton, Oh",
+   "amount": "94,000"
+ },
+ {
+   "city": "DC",
+   "amount": "$35,000"
+ },
+ {
+   "city": "DC",
+   "amount": "69,000"
+ },
+ {
+   "city": "Dearborn",
+   "amount": "40,000"
+ },
+ {
+   "city": "Dearborn",
+   "amount": "45,000"
+ },
+ {
+   "city": "Dearborn, MI",
+   "amount": "4,11,375"
+ },
+ {
+   "city": "Decline to respond",
+   "amount": "$66,000"
+ },
+ {
+   "city": "Delaware",
+   "amount": "$3,500/month"
+ },
+ {
+   "city": "DELHI",
+   "amount": "$15,000.00"
+ },
+ {
+   "city": "Denver",
+   "amount": "42,000"
+ },
+ {
+   "city": "Denver",
+   "amount": "$113,000"
+ },
+ {
+   "city": "Denver",
+   "amount": "52,000 (total, including benefits)"
+ },
+ {
+   "city": "Denver",
+   "amount": "$72,000.00"
+ },
+ {
+   "city": "Denver",
+   "amount": "44,000"
+ },
+ {
+   "city": "Denver",
+   "amount": "51,500"
+ },
+ {
+   "city": "Denver",
+   "amount": "39,500"
+ },
+ {
+   "city": "Denver",
+   "amount": "$36,000"
+ },
+ {
+   "city": "Denver",
+   "amount": "13/hour"
+ },
+ {
+   "city": "Denver",
+   "amount": "$16.50/hr or $34,320/year"
+ },
+ {
+   "city": "Denver",
+   "amount": "$55,000"
+ },
+ {
+   "city": "Denver",
+   "amount": "43500"
+ },
+ {
+   "city": "Denver",
+   "amount": "$25,500"
+ },
+ {
+   "city": "Denver",
+   "amount": "$44,674.50"
+ },
+ {
+   "city": "Denver",
+   "amount": "$13/hr"
+ },
+ {
+   "city": "Denver, CO",
+   "amount": "$15.50/hr"
+ },
+ {
+   "city": "Des Moines",
+   "amount": "39,000"
+ },
+ {
+   "city": "Detroit",
+   "amount": "90000"
+ },
+ {
+   "city": "Detroit",
+   "amount": "49,000"
+ },
+ {
+   "city": "Detroit",
+   "amount": "39000"
+ },
+ {
+   "city": "Detroit",
+   "amount": "3700"
+ },
+ {
+   "city": "Detroit",
+   "amount": "46,350"
+ },
+ {
+   "city": "Detroit",
+   "amount": "46,350"
+ },
+ {
+   "city": "Detroit",
+   "amount": "47,990"
+ },
+ {
+   "city": "Detroit",
+   "amount": "$42,000"
+ },
+ {
+   "city": "Detroit",
+   "amount": "$12,480"
+ },
+ {
+   "city": "Detroit",
+   "amount": "$11.15"
+ },
+ {
+   "city": "District of Columbia",
+   "amount": "$56,472"
+ },
+ {
+   "city": "Doha",
+   "amount": "10.5"
+ },
+ {
+   "city": "Doylestown",
+   "amount": "40,000"
+ },
+ {
+   "city": "Dublin",
+   "amount": "0"
+ },
+ {
+   "city": "duluth",
+   "amount": "$39,000"
+ },
+ {
+   "city": "Duluth",
+   "amount": "$8/hr"
+ },
+ {
+   "city": "Durham",
+   "amount": "42,000"
+ },
+ {
+   "city": "Durham",
+   "amount": "$41,000"
+ },
+ {
+   "city": "Durham, NC",
+   "amount": "$52,100.00"
+ },
+ {
+   "city": "Edmonton",
+   "amount": "$4,000"
+ },
+ {
+   "city": "El Paso",
+   "amount": "43,000"
+ },
+ {
+   "city": "Elk Horn",
+   "amount": "$41,000.00"
+ },
+ {
+   "city": "Elkhart",
+   "amount": "$31,200.00"
+ },
+ {
+   "city": "Eureka, CA",
+   "amount": "$15/hour"
+ },
+ {
+   "city": "Evanston",
+   "amount": "$12"
+ },
+ {
+   "city": "Farmville",
+   "amount": "55000"
+ },
+ {
+   "city": "Findlay, Ohio",
+   "amount": "32,000"
+ },
+ {
+   "city": "FL",
+   "amount": "$37,000"
+ },
+ {
+   "city": "Flagstaff",
+   "amount": "13,464"
+ },
+ {
+   "city": "Flint, Michigan",
+   "amount": "49,440"
+ },
+ {
+   "city": "Flint, Michigan",
+   "amount": "$8,000.00/year"
+ },
+ {
+   "city": "FLORENCE",
+   "amount": "1400 EURO"
+ },
+ {
+   "city": "Florida",
+   "amount": "$56,100"
+ },
+ {
+   "city": "Florida",
+   "amount": "21,800"
+ },
+ {
+   "city": "Florida",
+   "amount": "$60,000"
+ },
+ {
+   "city": "Fort Saskatchewan",
+   "amount": "74724"
+ },
+ {
+   "city": "Fort Worth",
+   "amount": "1,66,000"
+ },
+ {
+   "city": "Fort Worth",
+   "amount": "$53,000"
+ },
+ {
+   "city": "Fort Worth",
+   "amount": "62,000"
+ },
+ {
+   "city": "Fort Worth",
+   "amount": "$36,000.00"
+ },
+ {
+   "city": "Fort Worth",
+   "amount": "$37,800"
+ },
+ {
+   "city": "Georgia",
+   "amount": "51,000"
+ },
+ {
+   "city": "Grand Rapids",
+   "amount": "$13.25/hour"
+ },
+ {
+   "city": "Grand Rapids",
+   "amount": "11/hr"
+ },
+ {
+   "city": "Grand Rapids",
+   "amount": "$35,000"
+ },
+ {
+   "city": "Grand Rapids",
+   "amount": "$39,500"
+ },
+ {
+   "city": "Grand Rapids",
+   "amount": "$10/hr"
+ },
+ {
+   "city": "Grand Rapids, MI",
+   "amount": "$35,000"
+ },
+ {
+   "city": "Grand Rapids, mi",
+   "amount": "28000"
+ },
+ {
+   "city": "Grand Rapids, MI",
+   "amount": "$15/hourly"
+ },
+ {
+   "city": "Grand Rapids, MI",
+   "amount": "85,069"
+ },
+ {
+   "city": "greater boston",
+   "amount": "$47,970"
+ },
+ {
+   "city": "Greater Chicago Area",
+   "amount": "79,000"
+ },
+ {
+   "city": "Greater Portland Metro Area",
+   "amount": "51,500"
+ },
+ {
+   "city": "Greater Toronto Area (GTA)",
+   "amount": "$19.73/ hr CAD = $28,7226.88"
+ },
+ {
+   "city": "greensboro",
+   "amount": "43928"
+ },
+ {
+   "city": "Greensboro",
+   "amount": "$8/hour"
+ },
+ {
+   "city": "Greenville",
+   "amount": "38,700"
+ },
+ {
+   "city": "GTA City",
+   "amount": "38,609"
+ },
+ {
+   "city": "Halifax",
+   "amount": "42 000/year"
+ },
+ {
+   "city": "Halifax",
+   "amount": "37560"
+ },
+ {
+   "city": "Harrisburg",
+   "amount": "36,133.50"
+ },
+ {
+   "city": "Harrisburg",
+   "amount": "$36,133.00"
+ },
+ {
+   "city": "Harrogate",
+   "amount": "60,000.00"
+ },
+ {
+   "city": "Harrogate",
+   "amount": "60,000.00"
+ },
+ {
+   "city": "Hartford",
+   "amount": "35535"
+ },
+ {
+   "city": "Hartford",
+   "amount": "$69,000"
+ },
+ {
+   "city": "Hartford",
+   "amount": "$35,500.00"
+ },
+ {
+   "city": "Hartford, Connecticut",
+   "amount": "$24,133"
+ },
+ {
+   "city": "Haverford",
+   "amount": "38,000"
+ },
+ {
+   "city": "Hohenlockstedt",
+   "amount": "$23,000.00"
+ },
+ {
+   "city": "Hong Kong",
+   "amount": "HKD21,000"
+ },
+ {
+   "city": "Hong Kong",
+   "amount": "19,000 HK$"
+ },
+ {
+   "city": "Hong Kong",
+   "amount": "HKD 11,000"
+ },
+ {
+   "city": "Hong Kong",
+   "amount": "HK$ 210,000"
+ },
+ {
+   "city": "Hong Kong",
+   "amount": "HKD$9,300"
+ },
+ {
+   "city": "Honolulu",
+   "amount": "$15.30/hr"
+ },
+ {
+   "city": "Honolulu",
+   "amount": "$18.25"
+ },
+ {
+   "city": "Houston",
+   "amount": "70,000"
+ },
+ {
+   "city": "Houston",
+   "amount": "38.7k/yr 2018"
+ },
+ {
+   "city": "Houston",
+   "amount": "16.5"
+ },
+ {
+   "city": "Houston",
+   "amount": "$15/hr"
+ },
+ {
+   "city": "Houston",
+   "amount": "60,500"
+ },
+ {
+   "city": "Houston",
+   "amount": "70,000"
+ },
+ {
+   "city": "Houston",
+   "amount": "$43,000"
+ },
+ {
+   "city": "Houston",
+   "amount": "$1,200/week"
+ },
+ {
+   "city": "Houston",
+   "amount": "50,000"
+ },
+ {
+   "city": "Houston",
+   "amount": "$9/hour"
+ },
+ {
+   "city": "Houston",
+   "amount": "50,000"
+ },
+ {
+   "city": "Houston",
+   "amount": "$37,000.00"
+ },
+ {
+   "city": "Houston",
+   "amount": "$27,000.00"
+ },
+ {
+   "city": "Houston",
+   "amount": "40,000 after promotion"
+ },
+ {
+   "city": "Houston",
+   "amount": "$17.25/hr"
+ },
+ {
+   "city": "Houston",
+   "amount": "37,500"
+ },
+ {
+   "city": "Houston",
+   "amount": "$40,000"
+ },
+ {
+   "city": "Houston",
+   "amount": "45,000"
+ },
+ {
+   "city": "Houston",
+   "amount": "$36,000"
+ },
+ {
+   "city": "Houston",
+   "amount": "91,000"
+ },
+ {
+   "city": "Houston",
+   "amount": "38,000"
+ },
+ {
+   "city": "Houston",
+   "amount": "$38,000.00"
+ },
+ {
+   "city": "Houston, Texas",
+   "amount": "$1000/mo + 10% commission ($36-40,000)"
+ },
+ {
+   "city": "Houston, Texas",
+   "amount": "32,000"
+ },
+ {
+   "city": "Houston, TX",
+   "amount": "41,100"
+ },
+ {
+   "city": "Houston, TX",
+   "amount": "$36,000.00"
+ },
+ {
+   "city": "Hudson Valley",
+   "amount": "57,500 (5 days a week)"
+ },
+ {
+   "city": "Hull",
+   "amount": "£18,685"
+ },
+ {
+   "city": "Hull",
+   "amount": "£22,000"
+ },
+ {
+   "city": "Huntington",
+   "amount": "61,000/annual"
+ },
+ {
+   "city": "Huntington Beach",
+   "amount": "$15,000"
+ },
+ {
+   "city": "Illinois",
+   "amount": "52,000"
+ },
+ {
+   "city": "Indiana",
+   "amount": "41,000"
+ },
+ {
+   "city": "Indiana",
+   "amount": "$40,000.00"
+ },
+ {
+   "city": "Indianapolis",
+   "amount": "$50,000"
+ },
+ {
+   "city": "Indianapolis",
+   "amount": "$68,000"
+ },
+ {
+   "city": "Indianapolis",
+   "amount": "$34,000"
+ },
+ {
+   "city": "Indianapolis",
+   "amount": "35,000"
+ },
+ {
+   "city": "Indianapolis",
+   "amount": "$13 hr"
+ },
+ {
+   "city": "Indianapolis",
+   "amount": "42,000"
+ },
+ {
+   "city": "Indianapolis",
+   "amount": "69,000"
+ },
+ {
+   "city": "Indianapolis",
+   "amount": "60,000"
+ },
+ {
+   "city": "Indianapolis",
+   "amount": "$15 an hour"
+ },
+ {
+   "city": "Indianapolis",
+   "amount": "37,000"
+ },
+ {
+   "city": "Indianapolis, IN",
+   "amount": "57,200"
+ },
+ {
+   "city": "Jeddah",
+   "amount": "3200 USD"
+ },
+ {
+   "city": "Jerusalem",
+   "amount": "$25,000 yearly for part-time (75% of full time)"
+ },
+ {
+   "city": "Jerusalem",
+   "amount": "$10.36 usd per hour, roughly between 24,000 and 27,000 per year"
+ },
+ {
+   "city": "Juneau",
+   "amount": "$60,000"
+ },
+ {
+   "city": "Kalamazoo",
+   "amount": "40,000"
+ },
+ {
+   "city": "Kalamazoo",
+   "amount": "$49,000"
+ },
+ {
+   "city": "Kansas City",
+   "amount": "50,000"
+ },
+ {
+   "city": "Kansas City",
+   "amount": "$15/hr @30 hrs/wk"
+ },
+ {
+   "city": "Kansas City",
+   "amount": "19.06"
+ },
+ {
+   "city": "Kansas City",
+   "amount": "$55,000"
+ },
+ {
+   "city": "Kansas City",
+   "amount": "50,000"
+ },
+ {
+   "city": "Kansas City, MO",
+   "amount": "$15.45"
+ },
+ {
+   "city": "Kent",
+   "amount": "56540"
+ },
+ {
+   "city": "Knoxville",
+   "amount": "30,000"
+ },
+ {
+   "city": "Knoxville",
+   "amount": "52000"
+ },
+ {
+   "city": "Knoxville",
+   "amount": "36,961"
+ },
+ {
+   "city": "Knoxville",
+   "amount": "$54,312"
+ },
+ {
+   "city": "Knoxville",
+   "amount": "$54,312"
+ },
+ {
+   "city": "Kochi, Kerala",
+   "amount": "20,000 Rupees (288.23 USD p.m)"
+ },
+ {
+   "city": "Kyiv",
+   "amount": "8300 hryvnas (314$) per month"
+ },
+ {
+   "city": "Kyoto",
+   "amount": "¥0"
+ },
+ {
+   "city": "LA",
+   "amount": "$43,000.00"
+ },
+ {
+   "city": "LA",
+   "amount": "$60,000"
+ },
+ {
+   "city": "LA",
+   "amount": "$65,000.00"
+ },
+ {
+   "city": "LA",
+   "amount": "$240,000.00"
+ },
+ {
+   "city": "LA",
+   "amount": "$110,000.00"
+ },
+ {
+   "city": "LA",
+   "amount": "$63,800.00"
+ },
+ {
+   "city": "LA",
+   "amount": "$53,500.00"
+ },
+ {
+   "city": "LA",
+   "amount": "$73,000"
+ },
+ {
+   "city": "La Conner, WA",
+   "amount": "$16 per hour"
+ },
+ {
+   "city": "LA, OC, Santa Fe",
+   "amount": "2018"
+ },
+ {
+   "city": "Lake Wales",
+   "amount": "16.39"
+ },
+ {
+   "city": "Lancaster",
+   "amount": "$45,000"
+ },
+ {
+   "city": "Lancaster, PA",
+   "amount": "68,175.00"
+ },
+ {
+   "city": "Lansing",
+   "amount": "48000"
+ },
+ {
+   "city": "large east coast city",
+   "amount": "$60,000"
+ },
+ {
+   "city": "Large Midwestern City",
+   "amount": "36000"
+ },
+ {
+   "city": "Las Vegas",
+   "amount": "$56,000"
+ },
+ {
+   "city": "Las Vegas, NV",
+   "amount": "$54,900.00"
+ },
+ {
+   "city": "Las Vegas, NV",
+   "amount": "n/a"
+ },
+ {
+   "city": "Lens",
+   "amount": "2200 euros"
+ },
+ {
+   "city": "Lewisburg",
+   "amount": "40,000"
+ },
+ {
+   "city": "Lexington, MA",
+   "amount": "$43,000.00"
+ },
+ {
+   "city": "Little Rock",
+   "amount": "$45,100 (2012)"
+ },
+ {
+   "city": "Liverpool",
+   "amount": "£16500"
+ },
+ {
+   "city": "London",
+   "amount": "£19, 000"
+ },
+ {
+   "city": "London",
+   "amount": "50,000"
+ },
+ {
+   "city": "London",
+   "amount": "35,000 GBP"
+ },
+ {
+   "city": "London",
+   "amount": "£20.00/hr"
+ },
+ {
+   "city": "London",
+   "amount": "£25,800"
+ },
+ {
+   "city": "London",
+   "amount": "15552"
+ },
+ {
+   "city": "London",
+   "amount": "£35,000"
+ },
+ {
+   "city": "London",
+   "amount": "GBP 29,000 (including London Allowance)"
+ },
+ {
+   "city": "London",
+   "amount": "£32,500"
+ },
+ {
+   "city": "London",
+   "amount": "30,000 GBP"
+ },
+ {
+   "city": "London",
+   "amount": "30,000"
+ },
+ {
+   "city": "London",
+   "amount": "GBP 30,000.00"
+ },
+ {
+   "city": "London",
+   "amount": "£28,629"
+ },
+ {
+   "city": "London",
+   "amount": "£26400"
+ },
+ {
+   "city": "London",
+   "amount": "41000"
+ },
+ {
+   "city": "London",
+   "amount": "$27,000.00"
+ },
+ {
+   "city": "London",
+   "amount": "same"
+ },
+ {
+   "city": "London",
+   "amount": "$13.13"
+ },
+ {
+   "city": "London",
+   "amount": "£ 44,000"
+ },
+ {
+   "city": "London",
+   "amount": "£24,220"
+ },
+ {
+   "city": "London",
+   "amount": "£16,576 (for a 3 day week per annum)"
+ },
+ {
+   "city": "London",
+   "amount": "£17/hour"
+ },
+ {
+   "city": "London",
+   "amount": "$17,500.00"
+ },
+ {
+   "city": "London",
+   "amount": "£20,160 per annum / pro rata"
+ },
+ {
+   "city": "London",
+   "amount": "£10.55"
+ },
+ {
+   "city": "London",
+   "amount": "£18-£20 p/h"
+ },
+ {
+   "city": "London",
+   "amount": "£33,000"
+ },
+ {
+   "city": "London",
+   "amount": "£30,907"
+ },
+ {
+   "city": "London",
+   "amount": "29,770 GBP"
+ },
+ {
+   "city": "London",
+   "amount": "£29138"
+ },
+ {
+   "city": "London",
+   "amount": "£18,000"
+ },
+ {
+   "city": "London",
+   "amount": "£42,000"
+ },
+ {
+   "city": "London",
+   "amount": "£18000"
+ },
+ {
+   "city": "London",
+   "amount": "£24,774"
+ },
+ {
+   "city": "London",
+   "amount": "£31,000"
+ },
+ {
+   "city": "London",
+   "amount": "25,000"
+ },
+ {
+   "city": "London",
+   "amount": "25,700 GBP"
+ },
+ {
+   "city": "London",
+   "amount": "Current"
+ },
+ {
+   "city": "London",
+   "amount": "$22,450.00"
+ },
+ {
+   "city": "London",
+   "amount": "GBP 43,000"
+ },
+ {
+   "city": "London",
+   "amount": "$28,500.00"
+ },
+ {
+   "city": "London",
+   "amount": "22227"
+ },
+ {
+   "city": "London",
+   "amount": "£22,000"
+ },
+ {
+   "city": "London",
+   "amount": "£30,000 GBP"
+ },
+ {
+   "city": "London",
+   "amount": "£22330"
+ },
+ {
+   "city": "London",
+   "amount": "£9.20"
+ },
+ {
+   "city": "London",
+   "amount": "2019"
+ },
+ {
+   "city": "London",
+   "amount": "£8.50 per hour"
+ },
+ {
+   "city": "London",
+   "amount": "Same as starting"
+ },
+ {
+   "city": "London",
+   "amount": "£26520"
+ },
+ {
+   "city": "London",
+   "amount": "34500"
+ },
+ {
+   "city": "Long Island City",
+   "amount": "$0.00"
+ },
+ {
+   "city": "Long Island City",
+   "amount": "58,000"
+ },
+ {
+   "city": "Los angeles",
+   "amount": "55,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$32/Hour"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$19,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$22/hr"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "34000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$20.51/hr"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "43,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "75,000"
+ },
+ {
+   "city": "Los angeles",
+   "amount": "25,200 + commission"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$15/hour"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "65,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "57000 contract"
+ },
+ {
+   "city": "los angeles",
+   "amount": "$25/hr (promoted)"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$32,000 USD"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$64,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$2,019.00"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$15 / h"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "55000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "65000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "89000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "1,05,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "22.49/hr"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "48,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$20/hour"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$20.00"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "45000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "55,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "60,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$15/hour"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$16.50/hour"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "13.22"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "47000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "44,700"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "37,000 (2015)"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$24.00/hr"
+ },
+ {
+   "city": "LOS ANGELES",
+   "amount": "55,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$41,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$70,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$68,000.00"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$14/hr (Promotion to Production Manager), 2018"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$60,000.00"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "49900"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "49900"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$54,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "85,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "56000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$54,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$15.37"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$28/hr"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "65,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "50,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$18/hr freelance"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$18/hr"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "40,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$18"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "39,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$61,500"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$48,500"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "49,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$42,975"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "81,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$54,900"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "60,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$39,600"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "2019"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "47,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$92,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$65,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$49,700.00"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "50,225"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "59,500"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "52,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$56,500.00"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$20.90/hr"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$59,680.00"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$74,000.00"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "96,082"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "41,600"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "54,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$30,000 before tax"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "85,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "64,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$47,400"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "60,781.76"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$54,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$50,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "83,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$27"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$67,000.00"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "45,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "73000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "72,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "46,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$22/hr"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$26.25/ hour (after annual 3% merit-based increase)"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$105,033"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "60226.08"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$19,800"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "13.75 /hr"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$37,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$13.75/hr"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "79,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$42,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "54,800"
+ },
+ {
+   "city": "Los angeles",
+   "amount": "$47,000.00"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$2,018.00"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "45000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "41,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "45,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "47,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "59000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "40,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "38,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$21.50"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "16/hr"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "13.75/hr"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$20,735"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$50,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$33,186.00"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "42,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "43000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "$50,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "13.75"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "13.75"
+ },
+ {
+   "city": "Los angeles",
+   "amount": "65,000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "50000"
+ },
+ {
+   "city": "Los Angeles",
+   "amount": "82,000"
+ },
+ {
+   "city": "Los Angeles County,",
+   "amount": "$23.50/hr, 30 hours/week"
+ },
+ {
+   "city": "Los Angeles, CA",
+   "amount": "$13.25"
+ },
+ {
+   "city": "Los Angeles, CA",
+   "amount": "60,000"
+ },
+ {
+   "city": "Los Angeles, CA",
+   "amount": "$39,500"
+ },
+ {
+   "city": "Louisiana",
+   "amount": "$17/hr"
+ },
+ {
+   "city": "Louisiana",
+   "amount": "$39,700.00"
+ },
+ {
+   "city": "Louisiana",
+   "amount": "$55,000.00"
+ },
+ {
+   "city": "LOUISVILLE",
+   "amount": "$36,000"
+ },
+ {
+   "city": "Louisville",
+   "amount": "$10/hour"
+ },
+ {
+   "city": "Louisville",
+   "amount": "$10/hr"
+ },
+ {
+   "city": "Louisville",
+   "amount": "$15/hr"
+ },
+ {
+   "city": "Louisville",
+   "amount": "$36,000"
+ },
+ {
+   "city": "Louisville",
+   "amount": "$13 an hour"
+ },
+ {
+   "city": "Louisville, KY",
+   "amount": "44,290"
+ },
+ {
+   "city": "Louisville, KY",
+   "amount": "30,000"
+ },
+ {
+   "city": "Lowell",
+   "amount": "96,510"
+ },
+ {
+   "city": "Lowell, MA",
+   "amount": "16.00/hr"
+ },
+ {
+   "city": "Lower Hutt",
+   "amount": "NZ$127,000"
+ },
+ {
+   "city": "LS",
+   "amount": "55,000"
+ },
+ {
+   "city": "Lynchburg, VA",
+   "amount": "$35,759.88"
+ },
+ {
+   "city": "lyon",
+   "amount": "48 000 euros"
+ },
+ {
+   "city": "Madison",
+   "amount": "45,000"
+ },
+ {
+   "city": "Manchester",
+   "amount": "£28,000"
+ },
+ {
+   "city": "Manchester, NH",
+   "amount": "47,700"
+ },
+ {
+   "city": "Manhattan",
+   "amount": "$15"
+ },
+ {
+   "city": "Manhattan",
+   "amount": "30/hr"
+ },
+ {
+   "city": "Marin County, CA (SF Bay Area)",
+   "amount": "$19,574.12 (for one studio class offered per semester, two total in 2018/19 academic year)"
+ },
+ {
+   "city": "Maryland",
+   "amount": "52k"
+ },
+ {
+   "city": "Massachusetts",
+   "amount": "31,600"
+ },
+ {
+   "city": "Massachusetts",
+   "amount": "36,500"
+ },
+ {
+   "city": "Massachusetts",
+   "amount": "$16/hour"
+ },
+ {
+   "city": "Massachusetts",
+   "amount": "$105,000"
+ },
+ {
+   "city": "McKinney",
+   "amount": "$55,610.87"
+ },
+ {
+   "city": "Melbourne",
+   "amount": "17.14 hourly"
+ },
+ {
+   "city": "Memphis",
+   "amount": "2017"
+ },
+ {
+   "city": "Memphis",
+   "amount": "41,600.00"
+ },
+ {
+   "city": "Memphis",
+   "amount": "$37,000"
+ },
+ {
+   "city": "Memphis, TN",
+   "amount": "$38,000"
+ },
+ {
+   "city": "Menlo Park",
+   "amount": "$60/hr"
+ },
+ {
+   "city": "Menlo Park, CA",
+   "amount": "$20/hr"
+ },
+ {
+   "city": "Metro Detroit",
+   "amount": "36000"
+ },
+ {
+   "city": "Metro Detroit",
+   "amount": "66,500"
+ },
+ {
+   "city": "metro detroit",
+   "amount": "$75,000.00"
+ },
+ {
+   "city": "Metro-Atlanta",
+   "amount": "63,036"
+ },
+ {
+   "city": "Mexico City",
+   "amount": "11080 MXN (before taxes)"
+ },
+ {
+   "city": "Mexico City",
+   "amount": "14,300 USD (gross)"
+ },
+ {
+   "city": "Mexico City",
+   "amount": "15,000.00 MXN"
+ },
+ {
+   "city": "Mexico City",
+   "amount": "1075 USD"
+ },
+ {
+   "city": "MI",
+   "amount": "38,000"
+ },
+ {
+   "city": "Miami",
+   "amount": "40,000"
+ },
+ {
+   "city": "Miami",
+   "amount": "46410"
+ },
+ {
+   "city": "Miami",
+   "amount": "53000"
+ },
+ {
+   "city": "Miami",
+   "amount": "$13 per hour"
+ },
+ {
+   "city": "Miami",
+   "amount": "40000"
+ },
+ {
+   "city": "Miami",
+   "amount": "2019"
+ },
+ {
+   "city": "Miami",
+   "amount": "$10/hr"
+ },
+ {
+   "city": "Miami, FL",
+   "amount": "32,223"
+ },
+ {
+   "city": "Miami, FL",
+   "amount": "40,278"
+ },
+ {
+   "city": "Miami, Florida",
+   "amount": "42,000"
+ },
+ {
+   "city": "Michigan",
+   "amount": "$57,000"
+ },
+ {
+   "city": "Michigan",
+   "amount": "52,000"
+ },
+ {
+   "city": "Michigan",
+   "amount": "52,000"
+ },
+ {
+   "city": "Mid Atlantic City",
+   "amount": "$51,000"
+ },
+ {
+   "city": "Mid-Atlantic",
+   "amount": "40,000"
+ },
+ {
+   "city": "Mid-sized southeastern city",
+   "amount": "38,200"
+ },
+ {
+   "city": "Midwest",
+   "amount": "60,000"
+ },
+ {
+   "city": "Midwest",
+   "amount": "42,000"
+ },
+ {
+   "city": "Midwest",
+   "amount": "50,400"
+ },
+ {
+   "city": "Midwest",
+   "amount": "38,730"
+ },
+ {
+   "city": "Milwaukee",
+   "amount": "$20,000"
+ },
+ {
+   "city": "Milwaukee",
+   "amount": "$41,600"
+ },
+ {
+   "city": "Milwaukee",
+   "amount": "$12.75"
+ },
+ {
+   "city": "Milwaukee",
+   "amount": "$12/hr"
+ },
+ {
+   "city": "Minneapolis",
+   "amount": "$54,500"
+ },
+ {
+   "city": "Minneapolis",
+   "amount": "$30,000"
+ },
+ {
+   "city": "Minneapolis",
+   "amount": "45,000"
+ },
+ {
+   "city": "Minneapolis",
+   "amount": "58285.5"
+ },
+ {
+   "city": "Minneapolis",
+   "amount": "46000"
+ },
+ {
+   "city": "Minneapolis",
+   "amount": "45,000"
+ },
+ {
+   "city": "Minneapolis",
+   "amount": "41,410"
+ },
+ {
+   "city": "Minneapolis",
+   "amount": "35,000"
+ },
+ {
+   "city": "Minnesota",
+   "amount": "31000"
+ },
+ {
+   "city": "Monterey",
+   "amount": "2019"
+ },
+ {
+   "city": "Monterey",
+   "amount": "$10/hour"
+ },
+ {
+   "city": "Montgomery",
+   "amount": "40126.06"
+ },
+ {
+   "city": "Montgomery",
+   "amount": "43,533"
+ },
+ {
+   "city": "Montgomery",
+   "amount": "29000"
+ },
+ {
+   "city": "Montreal",
+   "amount": "40 000$ Can"
+ },
+ {
+   "city": "Montreal",
+   "amount": "16.50/hour"
+ },
+ {
+   "city": "Montreal",
+   "amount": "50000"
+ },
+ {
+   "city": "Montreal",
+   "amount": "24000 CAD"
+ },
+ {
+   "city": "Moscow",
+   "amount": "8300"
+ },
+ {
+   "city": "Multiple",
+   "amount": "$50-100 ph"
+ },
+ {
+   "city": "Mumbai",
+   "amount": "$720 per month//$8,640 per year"
+ },
+ {
+   "city": "Mystic",
+   "amount": "$11.60/hour"
+ },
+ {
+   "city": "n/a",
+   "amount": "47,500"
+ },
+ {
+   "city": "Napa CA",
+   "amount": "$20.50"
+ },
+ {
+   "city": "Nashville",
+   "amount": "32,000/yr"
+ },
+ {
+   "city": "Nashville",
+   "amount": "$38,000"
+ },
+ {
+   "city": "Natick",
+   "amount": "$21/hour"
+ },
+ {
+   "city": "NC",
+   "amount": "16.00/hr"
+ },
+ {
+   "city": "Near Sacramento",
+   "amount": "27.25"
+ },
+ {
+   "city": "New Delhi",
+   "amount": "USD 505.07"
+ },
+ {
+   "city": "New England",
+   "amount": "60k"
+ },
+ {
+   "city": "New England",
+   "amount": "$110,000"
+ },
+ {
+   "city": "New England",
+   "amount": "67,500"
+ },
+ {
+   "city": "New England",
+   "amount": "22,500"
+ },
+ {
+   "city": "New England",
+   "amount": "70,000"
+ },
+ {
+   "city": "New England",
+   "amount": "89,000"
+ },
+ {
+   "city": "New England",
+   "amount": "$156,000"
+ },
+ {
+   "city": "New Hampshire",
+   "amount": "$63,000"
+ },
+ {
+   "city": "New Haven",
+   "amount": "75,000"
+ },
+ {
+   "city": "New Haven",
+   "amount": "$73,000"
+ },
+ {
+   "city": "New Haven",
+   "amount": "$51,000"
+ },
+ {
+   "city": "New Jersey",
+   "amount": "$66,500"
+ },
+ {
+   "city": "New Orleans",
+   "amount": "70,000"
+ },
+ {
+   "city": "New Orleans",
+   "amount": "48,000"
+ },
+ {
+   "city": "New Orleans",
+   "amount": "35,000"
+ },
+ {
+   "city": "New Orleans, LA",
+   "amount": "$2,019.00"
+ },
+ {
+   "city": "New Windsor",
+   "amount": "$20/hr"
+ },
+ {
+   "city": "New York",
+   "amount": "95,000"
+ },
+ {
+   "city": "New York",
+   "amount": "62,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$30/hour"
+ },
+ {
+   "city": "New York",
+   "amount": "52500"
+ },
+ {
+   "city": "New York",
+   "amount": "$380,000"
+ },
+ {
+   "city": "New York",
+   "amount": "1,05,000"
+ },
+ {
+   "city": "New York",
+   "amount": "50,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$54,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$250,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$250,000 plus commission ($500,000 - 1,000,000)"
+ },
+ {
+   "city": "New York",
+   "amount": "130,000 + commission"
+ },
+ {
+   "city": "New York",
+   "amount": "90,000"
+ },
+ {
+   "city": "New York",
+   "amount": "50,000 + bonuses"
+ },
+ {
+   "city": "new york",
+   "amount": "80,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$40,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$52,500.00"
+ },
+ {
+   "city": "New York",
+   "amount": "$47,000 (2014)"
+ },
+ {
+   "city": "New York",
+   "amount": "80,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$180,000"
+ },
+ {
+   "city": "New York",
+   "amount": "40000"
+ },
+ {
+   "city": "New York",
+   "amount": "65000"
+ },
+ {
+   "city": "New York",
+   "amount": "$60,000"
+ },
+ {
+   "city": "New York",
+   "amount": "45,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$26.00"
+ },
+ {
+   "city": "New York",
+   "amount": "32,000"
+ },
+ {
+   "city": "New York",
+   "amount": "62,500"
+ },
+ {
+   "city": "New York",
+   "amount": "73,000"
+ },
+ {
+   "city": "New York",
+   "amount": "47000"
+ },
+ {
+   "city": "New York",
+   "amount": "$52,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$18 / hr"
+ },
+ {
+   "city": "New York",
+   "amount": "$54,950.00"
+ },
+ {
+   "city": "new york",
+   "amount": "$54,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "$35,000"
+ },
+ {
+   "city": "New York",
+   "amount": "65000"
+ },
+ {
+   "city": "New York",
+   "amount": "60000"
+ },
+ {
+   "city": "New York",
+   "amount": "$36,400"
+ },
+ {
+   "city": "New York",
+   "amount": "45000"
+ },
+ {
+   "city": "New York",
+   "amount": "$42,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "38,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$25 / hr"
+ },
+ {
+   "city": "New York",
+   "amount": "44,000"
+ },
+ {
+   "city": "New York",
+   "amount": "56,325"
+ },
+ {
+   "city": "New York",
+   "amount": "110000"
+ },
+ {
+   "city": "New York",
+   "amount": "$74,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "50,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$35,500 ($17/hr) + OT"
+ },
+ {
+   "city": "New York",
+   "amount": "$25.27 /hr"
+ },
+ {
+   "city": "New York",
+   "amount": "64,000"
+ },
+ {
+   "city": "New York",
+   "amount": "42,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$65,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$115,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "88500"
+ },
+ {
+   "city": "New York",
+   "amount": "80000, no commission"
+ },
+ {
+   "city": "New York",
+   "amount": "$69,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$59,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$154,000"
+ },
+ {
+   "city": "New York",
+   "amount": "65000"
+ },
+ {
+   "city": "New York",
+   "amount": "$38,000"
+ },
+ {
+   "city": "New York",
+   "amount": "90,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$58,500.00"
+ },
+ {
+   "city": "New York",
+   "amount": "$85,000 (2016)"
+ },
+ {
+   "city": "New York",
+   "amount": "44000"
+ },
+ {
+   "city": "New York",
+   "amount": "43,000"
+ },
+ {
+   "city": "New York",
+   "amount": "35,000"
+ },
+ {
+   "city": "New York",
+   "amount": "67,000"
+ },
+ {
+   "city": "New York",
+   "amount": "40000"
+ },
+ {
+   "city": "New York",
+   "amount": "75000"
+ },
+ {
+   "city": "New York",
+   "amount": "$45/hr"
+ },
+ {
+   "city": "New York",
+   "amount": "65000"
+ },
+ {
+   "city": "New York",
+   "amount": "58,500"
+ },
+ {
+   "city": "New York",
+   "amount": "$51,500.00"
+ },
+ {
+   "city": "New York",
+   "amount": "75,000"
+ },
+ {
+   "city": "New York",
+   "amount": "28.8"
+ },
+ {
+   "city": "New York",
+   "amount": "$35,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$33/hr"
+ },
+ {
+   "city": "New York",
+   "amount": "$75,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$58,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$25/hr"
+ },
+ {
+   "city": "New York",
+   "amount": "1,50,000"
+ },
+ {
+   "city": "New York",
+   "amount": "45,000"
+ },
+ {
+   "city": "New York",
+   "amount": "45"
+ },
+ {
+   "city": "NEW YORK",
+   "amount": "$60,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "85000"
+ },
+ {
+   "city": "New York",
+   "amount": "$15/hr"
+ },
+ {
+   "city": "New York",
+   "amount": "$30,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "73,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$52,000"
+ },
+ {
+   "city": "New York",
+   "amount": "68,175"
+ },
+ {
+   "city": "New York",
+   "amount": "$65,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$200,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "58,500"
+ },
+ {
+   "city": "New York",
+   "amount": "$19"
+ },
+ {
+   "city": "New York",
+   "amount": "60,000"
+ },
+ {
+   "city": "New York",
+   "amount": "70,000"
+ },
+ {
+   "city": "New York",
+   "amount": "66,250"
+ },
+ {
+   "city": "New York",
+   "amount": "$15/hr"
+ },
+ {
+   "city": "New York",
+   "amount": "$90,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "$52,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$59,670"
+ },
+ {
+   "city": "New York",
+   "amount": "59,670"
+ },
+ {
+   "city": "New York",
+   "amount": "$70,000"
+ },
+ {
+   "city": "New York",
+   "amount": "70,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$43,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "$60,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "40,000"
+ },
+ {
+   "city": "New York",
+   "amount": "66950"
+ },
+ {
+   "city": "New York",
+   "amount": "$65,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$110/one hour tour"
+ },
+ {
+   "city": "New York",
+   "amount": "64000"
+ },
+ {
+   "city": "New York",
+   "amount": "75,000"
+ },
+ {
+   "city": "New York",
+   "amount": "50000"
+ },
+ {
+   "city": "New York",
+   "amount": "75,000"
+ },
+ {
+   "city": "New York",
+   "amount": "15/hr (minimum wage)"
+ },
+ {
+   "city": "New York",
+   "amount": "$150,000"
+ },
+ {
+   "city": "New York",
+   "amount": "57,000"
+ },
+ {
+   "city": "New York",
+   "amount": "200-400"
+ },
+ {
+   "city": "New York",
+   "amount": "$35/hr"
+ },
+ {
+   "city": "New York",
+   "amount": "60,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$20/hr"
+ },
+ {
+   "city": "New York",
+   "amount": "40,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "$58,000"
+ },
+ {
+   "city": "New York",
+   "amount": "41,500"
+ },
+ {
+   "city": "New York",
+   "amount": "42,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$47,247"
+ },
+ {
+   "city": "New York",
+   "amount": "51,500"
+ },
+ {
+   "city": "New York",
+   "amount": "62,500"
+ },
+ {
+   "city": "New York",
+   "amount": "$47,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$9/hr"
+ },
+ {
+   "city": "New York",
+   "amount": "2019"
+ },
+ {
+   "city": "New York",
+   "amount": "64k"
+ },
+ {
+   "city": "New York",
+   "amount": "$150 per 3 hour tour"
+ },
+ {
+   "city": "New York",
+   "amount": "$38,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$71 p/hr (9 hr/week cap)"
+ },
+ {
+   "city": "New York",
+   "amount": "80,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$42,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$125/1.5 hour program"
+ },
+ {
+   "city": "New York",
+   "amount": "$20"
+ },
+ {
+   "city": "New York",
+   "amount": "Unpaid"
+ },
+ {
+   "city": "New York",
+   "amount": "70000"
+ },
+ {
+   "city": "NEW YORK",
+   "amount": "$0.00"
+ },
+ {
+   "city": "New York",
+   "amount": "$48.00"
+ },
+ {
+   "city": "New York",
+   "amount": "49K"
+ },
+ {
+   "city": "New York",
+   "amount": "$60,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$18.25/hr"
+ },
+ {
+   "city": "New York",
+   "amount": "48000"
+ },
+ {
+   "city": "New York",
+   "amount": "$30,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "$17/hr"
+ },
+ {
+   "city": "New York",
+   "amount": "47,000"
+ },
+ {
+   "city": "New York",
+   "amount": "42,000"
+ },
+ {
+   "city": "New York",
+   "amount": "1999, $20,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$43,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$46,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "38,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$52,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "$63,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "50,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$100,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$71,289.00"
+ },
+ {
+   "city": "New York",
+   "amount": "57000"
+ },
+ {
+   "city": "New York",
+   "amount": "45,000"
+ },
+ {
+   "city": "New York",
+   "amount": "15"
+ },
+ {
+   "city": "New York",
+   "amount": "$43,000"
+ },
+ {
+   "city": "New York",
+   "amount": "57000"
+ },
+ {
+   "city": "New York",
+   "amount": "66,500"
+ },
+ {
+   "city": "New York",
+   "amount": "$58,500"
+ },
+ {
+   "city": "New York",
+   "amount": "$85,000"
+ },
+ {
+   "city": "New York",
+   "amount": "53000"
+ },
+ {
+   "city": "New york",
+   "amount": "15.05"
+ },
+ {
+   "city": "New York",
+   "amount": "90,897"
+ },
+ {
+   "city": "New York",
+   "amount": "42,500"
+ },
+ {
+   "city": "New York",
+   "amount": "56,000"
+ },
+ {
+   "city": "New York",
+   "amount": "1,35,000"
+ },
+ {
+   "city": "New York",
+   "amount": "82,800"
+ },
+ {
+   "city": "New York",
+   "amount": "79,400"
+ },
+ {
+   "city": "New York",
+   "amount": "58,500"
+ },
+ {
+   "city": "New York",
+   "amount": "82,000"
+ },
+ {
+   "city": "New York",
+   "amount": "83,000 (promoted)"
+ },
+ {
+   "city": "New York",
+   "amount": "$40.05 hour, $83,304 pre tax base salary"
+ },
+ {
+   "city": "New York",
+   "amount": "63,860"
+ },
+ {
+   "city": "New York",
+   "amount": "49000"
+ },
+ {
+   "city": "New York",
+   "amount": "52,000k"
+ },
+ {
+   "city": "New York",
+   "amount": "$95.00"
+ },
+ {
+   "city": "New York",
+   "amount": "$162,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "$56,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$20/hr"
+ },
+ {
+   "city": "New York",
+   "amount": "46k"
+ },
+ {
+   "city": "New York",
+   "amount": "$49,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$110/1.5 hour program"
+ },
+ {
+   "city": "New York",
+   "amount": "$31,500"
+ },
+ {
+   "city": "New York",
+   "amount": "$24.85"
+ },
+ {
+   "city": "NEW YORK",
+   "amount": "$30,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$47,487"
+ },
+ {
+   "city": "New York",
+   "amount": "2016"
+ },
+ {
+   "city": "New York",
+   "amount": "$58,000"
+ },
+ {
+   "city": "New York",
+   "amount": "52,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$58,500"
+ },
+ {
+   "city": "New York",
+   "amount": "$40,000"
+ },
+ {
+   "city": "New York",
+   "amount": "40,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$42,000"
+ },
+ {
+   "city": "New York",
+   "amount": "60,000"
+ },
+ {
+   "city": "New York",
+   "amount": "45,000 (2014)"
+ },
+ {
+   "city": "New York",
+   "amount": "54000"
+ },
+ {
+   "city": "New York",
+   "amount": "$75,000.00"
+ },
+ {
+   "city": "New York",
+   "amount": "34,000"
+ },
+ {
+   "city": "New York",
+   "amount": "47000"
+ },
+ {
+   "city": "New York",
+   "amount": "35,000"
+ },
+ {
+   "city": "New York",
+   "amount": "65,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$57,500"
+ },
+ {
+   "city": "New York",
+   "amount": "64,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$3,000 stipend"
+ },
+ {
+   "city": "New York",
+   "amount": "50,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$37,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$69,700"
+ },
+ {
+   "city": "New York",
+   "amount": "$51,000"
+ },
+ {
+   "city": "New York",
+   "amount": "54,000"
+ },
+ {
+   "city": "New York",
+   "amount": "35,000"
+ },
+ {
+   "city": "NEW YORK",
+   "amount": "$64,000"
+ },
+ {
+   "city": "new york",
+   "amount": "60,000"
+ },
+ {
+   "city": "New York",
+   "amount": "68,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$42,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$45,000"
+ },
+ {
+   "city": "New York",
+   "amount": "27,000"
+ },
+ {
+   "city": "New York",
+   "amount": "65000"
+ },
+ {
+   "city": "New York",
+   "amount": "34,500"
+ },
+ {
+   "city": "New York",
+   "amount": "$50,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$44,000"
+ },
+ {
+   "city": "New York",
+   "amount": "40/hour"
+ },
+ {
+   "city": "New York",
+   "amount": "61,800"
+ },
+ {
+   "city": "New York",
+   "amount": "$53,562.60"
+ },
+ {
+   "city": "New York",
+   "amount": "61,900.00"
+ },
+ {
+   "city": "New York",
+   "amount": "58,500"
+ },
+ {
+   "city": "New York",
+   "amount": "65000"
+ },
+ {
+   "city": "New York",
+   "amount": "75000"
+ },
+ {
+   "city": "New York",
+   "amount": "53,500"
+ },
+ {
+   "city": "New York",
+   "amount": "66,300"
+ },
+ {
+   "city": "New York",
+   "amount": "78,000"
+ },
+ {
+   "city": "New York",
+   "amount": "45,000"
+ },
+ {
+   "city": "New York",
+   "amount": "52000"
+ },
+ {
+   "city": "New York",
+   "amount": "$28,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$49,500.00"
+ },
+ {
+   "city": "New York",
+   "amount": "60,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$150/program"
+ },
+ {
+   "city": "New York",
+   "amount": "$64,915.75"
+ },
+ {
+   "city": "New York",
+   "amount": "1,03,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$56,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$58,000"
+ },
+ {
+   "city": "New York",
+   "amount": "72,500"
+ },
+ {
+   "city": "New York",
+   "amount": "55k"
+ },
+ {
+   "city": "NEW YORK",
+   "amount": "$50,000"
+ },
+ {
+   "city": "New York",
+   "amount": "40,000"
+ },
+ {
+   "city": "New York",
+   "amount": "52,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$60,000/year"
+ },
+ {
+   "city": "New York",
+   "amount": "$46,000"
+ },
+ {
+   "city": "New York",
+   "amount": "42,500"
+ },
+ {
+   "city": "New York",
+   "amount": "$40,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$18/hr"
+ },
+ {
+   "city": "New York",
+   "amount": "$25/hour"
+ },
+ {
+   "city": "New York",
+   "amount": "$34,000"
+ },
+ {
+   "city": "New York",
+   "amount": "70,000"
+ },
+ {
+   "city": "New York",
+   "amount": "56000"
+ },
+ {
+   "city": "New York",
+   "amount": "58,500"
+ },
+ {
+   "city": "New York",
+   "amount": "23"
+ },
+ {
+   "city": "New York",
+   "amount": "60000"
+ },
+ {
+   "city": "New York",
+   "amount": "40000"
+ },
+ {
+   "city": "new york",
+   "amount": "60000"
+ },
+ {
+   "city": "New York",
+   "amount": "Unpaid"
+ },
+ {
+   "city": "New York",
+   "amount": "$25/hour"
+ },
+ {
+   "city": "New York",
+   "amount": "$51,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$77,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$39,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$15/hour (at membership/front desk)"
+ },
+ {
+   "city": "New York",
+   "amount": "53,000"
+ },
+ {
+   "city": "New York",
+   "amount": "20"
+ },
+ {
+   "city": "New York",
+   "amount": "18/prep hours 25/teaching hours"
+ },
+ {
+   "city": "New York",
+   "amount": "$35 an hour"
+ },
+ {
+   "city": "New York",
+   "amount": "32,000"
+ },
+ {
+   "city": "New York",
+   "amount": "30,000"
+ },
+ {
+   "city": "New York",
+   "amount": "$15.00/hour (ended 2013)"
+ },
+ {
+   "city": "New York City",
+   "amount": "1,19,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$18.50/hr"
+ },
+ {
+   "city": "New York City",
+   "amount": "$40,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "50,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "50000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$52,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$59,000.00"
+ },
+ {
+   "city": "New York City",
+   "amount": "$44,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$13.50"
+ },
+ {
+   "city": "New York City",
+   "amount": "$13.50"
+ },
+ {
+   "city": "New York City",
+   "amount": "59,500"
+ },
+ {
+   "city": "New York City",
+   "amount": "53,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$65,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "35,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "32,600"
+ },
+ {
+   "city": "New York City",
+   "amount": "82,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$15/hour (NYC Minimum Wage)"
+ },
+ {
+   "city": "New York City",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "New York City",
+   "amount": "$55,600"
+ },
+ {
+   "city": "New York City",
+   "amount": "40,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$45,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$47,500.00"
+ },
+ {
+   "city": "New York City",
+   "amount": "72,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "57,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$50/hour"
+ },
+ {
+   "city": "New York City",
+   "amount": "$15/hr"
+ },
+ {
+   "city": "New York City",
+   "amount": "$19"
+ },
+ {
+   "city": "New York City",
+   "amount": "$18"
+ },
+ {
+   "city": "New York City",
+   "amount": "$40,000 ($20/hour)"
+ },
+ {
+   "city": "New York City",
+   "amount": "73,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "43,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$50,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "65,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "74,304"
+ },
+ {
+   "city": "New York City",
+   "amount": "$60,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "66,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "2019"
+ },
+ {
+   "city": "New York City",
+   "amount": "$15/hr"
+ },
+ {
+   "city": "New York City",
+   "amount": "$15/hr"
+ },
+ {
+   "city": "New York City",
+   "amount": "28.5"
+ },
+ {
+   "city": "New York City",
+   "amount": "67,500"
+ },
+ {
+   "city": "New York City",
+   "amount": "$44,000.00"
+ },
+ {
+   "city": "New York City",
+   "amount": "50,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$40,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$15/hour"
+ },
+ {
+   "city": "New York City",
+   "amount": "75,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$50,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$44,669.06"
+ },
+ {
+   "city": "New York City",
+   "amount": "77,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$35,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "68,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "75,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$38,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "$50,000 (no raise)"
+ },
+ {
+   "city": "New York City",
+   "amount": "2014"
+ },
+ {
+   "city": "New York City",
+   "amount": "$78,000"
+ },
+ {
+   "city": "New York City",
+   "amount": "45,000"
+ },
+ {
+   "city": "new york city,",
+   "amount": "$12/hr"
+ },
+ {
+   "city": "New York Coth",
+   "amount": "$75,000.00"
+ },
+ {
+   "city": "new york ny",
+   "amount": "18$ an hour (ending in 2011)"
+ },
+ {
+   "city": "New York State",
+   "amount": "$38,000"
+ },
+ {
+   "city": "New York, NY",
+   "amount": "$50,700"
+ },
+ {
+   "city": "New York, NY",
+   "amount": "$47,000.00"
+ },
+ {
+   "city": "New York, NY",
+   "amount": "$75,000"
+ },
+ {
+   "city": "New York, NY",
+   "amount": "48,000"
+ },
+ {
+   "city": "New York, NY",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "New York, NY",
+   "amount": "$30,000.00"
+ },
+ {
+   "city": "New York, NY",
+   "amount": "$20/hour"
+ },
+ {
+   "city": "New York, NY",
+   "amount": "110 per program"
+ },
+ {
+   "city": "New Zealand",
+   "amount": "62,000"
+ },
+ {
+   "city": "Newark",
+   "amount": "45,000"
+ },
+ {
+   "city": "Newark",
+   "amount": "50,000"
+ },
+ {
+   "city": "Newcastle",
+   "amount": "£11/h ($13.95)"
+ },
+ {
+   "city": "NJ",
+   "amount": "$23/hr"
+ },
+ {
+   "city": "NJ",
+   "amount": "43,000"
+ },
+ {
+   "city": "Norfolk",
+   "amount": "38,000"
+ },
+ {
+   "city": "Norman",
+   "amount": "$11.30"
+ },
+ {
+   "city": "Norman",
+   "amount": "31,005"
+ },
+ {
+   "city": "Norman",
+   "amount": "$29,800.00"
+ },
+ {
+   "city": "North Adams",
+   "amount": "42,000"
+ },
+ {
+   "city": "North Carolina",
+   "amount": "51,000"
+ },
+ {
+   "city": "North Carolina",
+   "amount": "38,800"
+ },
+ {
+   "city": "North East Region",
+   "amount": "$17 hour"
+ },
+ {
+   "city": "North Miami",
+   "amount": "$48,000.00"
+ },
+ {
+   "city": "North Texas",
+   "amount": "$44,000"
+ },
+ {
+   "city": "Northeast",
+   "amount": "40,000"
+ },
+ {
+   "city": "Northeast",
+   "amount": "84450"
+ },
+ {
+   "city": "Northern California",
+   "amount": "39"
+ },
+ {
+   "city": "Nottingham",
+   "amount": "£24500"
+ },
+ {
+   "city": "NY",
+   "amount": "$55,000.00"
+ },
+ {
+   "city": "NY",
+   "amount": "$33/hr"
+ },
+ {
+   "city": "Ny",
+   "amount": "“"
+ },
+ {
+   "city": "NY",
+   "amount": "$38,000.00"
+ },
+ {
+   "city": "NY",
+   "amount": "$85,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "55000"
+ },
+ {
+   "city": "NYC",
+   "amount": "47,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "58500"
+ },
+ {
+   "city": "NYC",
+   "amount": "$22/hr"
+ },
+ {
+   "city": "NYC",
+   "amount": "$58,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$58,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$65,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$42 per hour"
+ },
+ {
+   "city": "NYC",
+   "amount": "55,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "$58,500"
+ },
+ {
+   "city": "NYC",
+   "amount": "32,000 (full time)"
+ },
+ {
+   "city": "NYC",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "62,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "55,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "53,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "N/A"
+ },
+ {
+   "city": "NYC",
+   "amount": "$27,500"
+ },
+ {
+   "city": "NYC",
+   "amount": "$25/hour"
+ },
+ {
+   "city": "NYC",
+   "amount": "$50,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "65000"
+ },
+ {
+   "city": "NYC",
+   "amount": "72,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "$69,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "$17/h"
+ },
+ {
+   "city": "NYC",
+   "amount": "$58,000 as assistant curator"
+ },
+ {
+   "city": "NYC",
+   "amount": "$60,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "$97,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "42000"
+ },
+ {
+   "city": "NYC",
+   "amount": "37,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "77,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "41k"
+ },
+ {
+   "city": "NYC",
+   "amount": "40,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "55,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "$15"
+ },
+ {
+   "city": "NYC",
+   "amount": "$58,500.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$25/hr"
+ },
+ {
+   "city": "NYC",
+   "amount": "$35/hr"
+ },
+ {
+   "city": "NYC",
+   "amount": "$47,614.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$18/hr"
+ },
+ {
+   "city": "NYC",
+   "amount": "$52,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$52,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$52,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$46,054.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$44,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$44,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$38,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$1800/day"
+ },
+ {
+   "city": "NYC",
+   "amount": "$9"
+ },
+ {
+   "city": "NYC",
+   "amount": "38,000 full time"
+ },
+ {
+   "city": "NYC",
+   "amount": "N/a"
+ },
+ {
+   "city": "NYC",
+   "amount": "$158,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "82,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "$74,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "55,223"
+ },
+ {
+   "city": "NYC",
+   "amount": "$50,920.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$22.30/hour"
+ },
+ {
+   "city": "NYC",
+   "amount": "$25 / hour"
+ },
+ {
+   "city": "NYC",
+   "amount": "$330,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$310,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$285,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$260,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$220,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$110,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$105,500.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$98,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$90,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$83,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$79,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$78,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$75,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$73,797.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$66,950.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$64,916.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$64,915.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$61,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$61,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$61,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$60,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$59,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$56,650.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$56,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$53,500.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$48,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$46,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$45,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$38,500.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$32,672.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$0.00"
+ },
+ {
+   "city": "Nyc",
+   "amount": "50,000"
+ },
+ {
+   "city": "NYC",
+   "amount": "Never started- job offer illegally rescinded"
+ },
+ {
+   "city": "NYC",
+   "amount": "95000"
+ },
+ {
+   "city": "NYC",
+   "amount": "$22/hour"
+ },
+ {
+   "city": "NYC",
+   "amount": "$55,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$30,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$32,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$15/hr"
+ },
+ {
+   "city": "NYC",
+   "amount": "$9"
+ },
+ {
+   "city": "NYC",
+   "amount": "$37,440"
+ },
+ {
+   "city": "NYC",
+   "amount": "$17/hr"
+ },
+ {
+   "city": "NYC",
+   "amount": "$9.40 per hour (2009)"
+ },
+ {
+   "city": "NYC",
+   "amount": "$27.50/hr"
+ },
+ {
+   "city": "NYC",
+   "amount": "$62,500.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$55,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$54,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$42,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$40,040.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$40,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$36,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$29,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$28,000.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$0.00"
+ },
+ {
+   "city": "NYC",
+   "amount": "$0.00"
+ },
+ {
+   "city": "oakland",
+   "amount": "$59,000"
+ },
+ {
+   "city": "Oakland",
+   "amount": "59,000"
+ },
+ {
+   "city": "Oakland",
+   "amount": "59,000"
+ },
+ {
+   "city": "Oakland",
+   "amount": "$24.61/hr"
+ },
+ {
+   "city": "Oakland",
+   "amount": "59200"
+ },
+ {
+   "city": "Oakland",
+   "amount": "27.10/hr (~52,800 per year)"
+ },
+ {
+   "city": "Oakland, CA",
+   "amount": "$28/hr"
+ },
+ {
+   "city": "Oklahoma City",
+   "amount": "40,700"
+ },
+ {
+   "city": "Oklahoma City",
+   "amount": "65,000"
+ },
+ {
+   "city": "Oklahoma City, OK",
+   "amount": "$21,000"
+ },
+ {
+   "city": "Omaha",
+   "amount": "44000"
+ },
+ {
+   "city": "Ontario",
+   "amount": "$29,000 CAN"
+ },
+ {
+   "city": "Ontario",
+   "amount": "$26,250"
+ },
+ {
+   "city": "Orillia",
+   "amount": "40, 000 CAD"
+ },
+ {
+   "city": "Orillia",
+   "amount": "40, 000 CAD"
+ },
+ {
+   "city": "Orlando",
+   "amount": "9"
+ },
+ {
+   "city": "Ottawa",
+   "amount": "$71,000 CDN ($52,950 US)"
+ },
+ {
+   "city": "Ottawa",
+   "amount": "64000 CAD"
+ },
+ {
+   "city": "Ottawa",
+   "amount": "29000"
+ },
+ {
+   "city": "Ottawa",
+   "amount": "42,000"
+ },
+ {
+   "city": "Ottawa Valley",
+   "amount": "$22,000 CAD"
+ },
+ {
+   "city": "Outer Los Angeles",
+   "amount": "$45,000"
+ },
+ {
+   "city": "Outside of Boston",
+   "amount": "$61,500 US (2018)"
+ },
+ {
+   "city": "PA",
+   "amount": "$41,000"
+ },
+ {
+   "city": "PA",
+   "amount": "$41,000.00"
+ },
+ {
+   "city": "Pacific Northwest",
+   "amount": "52,000"
+ },
+ {
+   "city": "Pacific Northwest",
+   "amount": "44,500"
+ },
+ {
+   "city": "Palm Beach County",
+   "amount": "45000"
+ },
+ {
+   "city": "Palm Springs, CA",
+   "amount": "62,500"
+ },
+ {
+   "city": "Palo Alto, CA",
+   "amount": "$15/hr"
+ },
+ {
+   "city": "Paris",
+   "amount": "33850 (gross salary)"
+ },
+ {
+   "city": "Paris",
+   "amount": "35 000 euros"
+ },
+ {
+   "city": "Paris",
+   "amount": "3,75 EUR/h"
+ },
+ {
+   "city": "paris",
+   "amount": "24 000 €"
+ },
+ {
+   "city": "Paris",
+   "amount": "27,600 €"
+ },
+ {
+   "city": "Paris",
+   "amount": "22,5EUR/Hr"
+ },
+ {
+   "city": "Paris",
+   "amount": "26000 EUR"
+ },
+ {
+   "city": "Paris",
+   "amount": "26300€ / 29500$"
+ },
+ {
+   "city": "Pasadena",
+   "amount": "41,000"
+ },
+ {
+   "city": "Pasadena",
+   "amount": "36000"
+ },
+ {
+   "city": "Pasadena, CA",
+   "amount": "$115,000.00"
+ },
+ {
+   "city": "Pennsylvania",
+   "amount": "56,000"
+ },
+ {
+   "city": "Peoria, IL",
+   "amount": "$70,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$65,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$37,440"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "46,583"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "39,220"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$57,000.00"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$26.40/hr + commissions"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$40,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$16.00/hr"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$11.00"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$80,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$60,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$54,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$41,400"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "45,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$62,400.00"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "38,568"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "35500"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$42,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "38,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "93,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$8.50 / hr Federal Work Study"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "62,500"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "62,500"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "45,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$19 per hour"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$10/hr"
+ },
+ {
+   "city": "philadelphia",
+   "amount": "$42,640"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "39,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$41,000.00"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$12.20/Hour"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "15.76/hr"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$11/hour"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$40,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$38,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$52,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$13/hr"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$13.25 per hour ($27,560)"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$14 an hour"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$36,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "18 to 20 per hour"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "32,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$38, 000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$46,100.00"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$45,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "53,321"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "38,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "30,000/year"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "61,600"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$35,900"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$16 / hour"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$19.30/hr"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "31000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "41,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$54,100"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "40,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "45,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$50,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$42,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "86400"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "35,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$18.37/hour"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$68,500"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$55,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$56,000.00"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$69,300"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "43,800"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "54,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "31,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "30,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "57400 (2018)"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$33,800"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$44,075.00"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "2019, remained at 30k"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "13/hr"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "48,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$11.62"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$12.00"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$12/he"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "2012"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$10 / hour"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$34,500"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$43,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "52,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "50,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "30,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$37,500 (2015)"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$10/he"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "45000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "$55,000"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "38.000 USD (stipend)"
+ },
+ {
+   "city": "Philadelphia",
+   "amount": "41,616"
+ },
+ {
+   "city": "Philadelphia Museum of Art",
+   "amount": "45000"
+ },
+ {
+   "city": "Philadelphia suburb",
+   "amount": "$73,400"
+ },
+ {
+   "city": "Philadelphia, PA",
+   "amount": "42000"
+ },
+ {
+   "city": "Philadelphia, PA",
+   "amount": "53000"
+ },
+ {
+   "city": "Philadelphia, PA",
+   "amount": "$51,118"
+ },
+ {
+   "city": "Philadelphia, PA",
+   "amount": "$0.00"
+ },
+ {
+   "city": "Philadelphia, PA",
+   "amount": "$12/hr"
+ },
+ {
+   "city": "Philadephia",
+   "amount": "40,000"
+ },
+ {
+   "city": "Philadephia",
+   "amount": "46,125"
+ },
+ {
+   "city": "Phoenix",
+   "amount": "$86,000"
+ },
+ {
+   "city": "Phoenix",
+   "amount": "41,206"
+ },
+ {
+   "city": "Phoenix",
+   "amount": "$39,000"
+ },
+ {
+   "city": "Phoenix",
+   "amount": "32k"
+ },
+ {
+   "city": "Phoenix",
+   "amount": "$11.00"
+ },
+ {
+   "city": "PHOENIX",
+   "amount": "36,000"
+ },
+ {
+   "city": "Phoenix Metro",
+   "amount": "$14.00/hr"
+ },
+ {
+   "city": "Phoenix, Arizona",
+   "amount": "48,000"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "$11.50 per hour"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "68,000"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "$72,000"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "40000"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "60,000"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "39000"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "$24.00"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "$16.99"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "8.5"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "47,000"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "73000"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "30,000"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "$15.71/hour"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "10"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "$2,011.00"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "$12/hour or $30/tour"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "15"
+ },
+ {
+   "city": "Pittsburgh",
+   "amount": "35,000"
+ },
+ {
+   "city": "Pittsburgh, PA",
+   "amount": "$9.73/hr"
+ },
+ {
+   "city": "Pittsburgh, PA",
+   "amount": "$8.50"
+ },
+ {
+   "city": "Pittsburgh, PA (living in WV, commuter)",
+   "amount": "8.5"
+ },
+ {
+   "city": "Plantation",
+   "amount": "51,0000/yr (including supplements and mid year raise)"
+ },
+ {
+   "city": "Port Townsend",
+   "amount": "55,000"
+ },
+ {
+   "city": "Portland",
+   "amount": "50,000 (32 hrs/week)"
+ },
+ {
+   "city": "Portland",
+   "amount": "42,000"
+ },
+ {
+   "city": "Portland",
+   "amount": "$17.66"
+ },
+ {
+   "city": "Portland",
+   "amount": "57,000"
+ },
+ {
+   "city": "Portland",
+   "amount": "57,000"
+ },
+ {
+   "city": "Portland",
+   "amount": "19.80/hour"
+ },
+ {
+   "city": "Portland",
+   "amount": "24000"
+ },
+ {
+   "city": "Portland",
+   "amount": "$48,000.00"
+ },
+ {
+   "city": "Portland",
+   "amount": "$16.80"
+ },
+ {
+   "city": "Portland, OR",
+   "amount": "$62,000"
+ },
+ {
+   "city": "Portland, OR",
+   "amount": "51K"
+ },
+ {
+   "city": "Portland, Oregon",
+   "amount": "80,000"
+ },
+ {
+   "city": "Portland, Oregon",
+   "amount": "$90,000"
+ },
+ {
+   "city": "Portree",
+   "amount": "26,000"
+ },
+ {
+   "city": "Portsmouth, NH",
+   "amount": "$23"
+ },
+ {
+   "city": "Princeton",
+   "amount": "33,000"
+ },
+ {
+   "city": "Providence",
+   "amount": "38,000"
+ },
+ {
+   "city": "Providence",
+   "amount": "$39,520 or $19/hr"
+ },
+ {
+   "city": "Providence",
+   "amount": "21$/hr"
+ },
+ {
+   "city": "Queens",
+   "amount": "47500"
+ },
+ {
+   "city": "Queens",
+   "amount": "32.50/hr"
+ },
+ {
+   "city": "Queens, NY",
+   "amount": "$17/hr"
+ },
+ {
+   "city": "Raleigh",
+   "amount": "$37,740"
+ },
+ {
+   "city": "Raleigh",
+   "amount": "31,500"
+ },
+ {
+   "city": "Raleigh",
+   "amount": "38,462"
+ },
+ {
+   "city": "Raleigh",
+   "amount": "$15.50/hour"
+ },
+ {
+   "city": "Reading",
+   "amount": "$30,000"
+ },
+ {
+   "city": "Reading",
+   "amount": "£32235"
+ },
+ {
+   "city": "Redwood City, CA",
+   "amount": "$23.80/hr"
+ },
+ {
+   "city": "Renton",
+   "amount": "23,790"
+ },
+ {
+   "city": "Rhinelander WI",
+   "amount": "67, 643"
+ },
+ {
+   "city": "Richmond",
+   "amount": "35,000"
+ },
+ {
+   "city": "Richmond",
+   "amount": "32,000 (FT)"
+ },
+ {
+   "city": "Richmond",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "Richmond",
+   "amount": "30,000"
+ },
+ {
+   "city": "Richmond",
+   "amount": "35,000"
+ },
+ {
+   "city": "Richmond",
+   "amount": "30300"
+ },
+ {
+   "city": "Richmond",
+   "amount": "25,000"
+ },
+ {
+   "city": "Richmond, VA",
+   "amount": "40,000"
+ },
+ {
+   "city": "Richmond, VA",
+   "amount": "21,000"
+ },
+ {
+   "city": "Rio de Janeiro",
+   "amount": "R$ 3500,00"
+ },
+ {
+   "city": "Rio de Janeiro",
+   "amount": "675"
+ },
+ {
+   "city": "Riverside",
+   "amount": "50,000"
+ },
+ {
+   "city": "Riverside",
+   "amount": "50,000"
+ },
+ {
+   "city": "Rochester",
+   "amount": "47,500"
+ },
+ {
+   "city": "Rockville",
+   "amount": "$60,000"
+ },
+ {
+   "city": "Rome",
+   "amount": "0 €"
+ },
+ {
+   "city": "Rural Texas",
+   "amount": "$53,000"
+ },
+ {
+   "city": "Saint Louis",
+   "amount": "$2,019.00"
+ },
+ {
+   "city": "Saint Paul",
+   "amount": "62,000"
+ },
+ {
+   "city": "Saint Paul, Minnesota",
+   "amount": "$24/hr"
+ },
+ {
+   "city": "Saint Petersburg",
+   "amount": "40,000"
+ },
+ {
+   "city": "Saint-Brieuc",
+   "amount": "13,500"
+ },
+ {
+   "city": "Salem",
+   "amount": "59,000"
+ },
+ {
+   "city": "Salem, MA",
+   "amount": "$56,000"
+ },
+ {
+   "city": "Salem, MA",
+   "amount": "86,700"
+ },
+ {
+   "city": "Salt Lake City",
+   "amount": "16/hour"
+ },
+ {
+   "city": "San Antonio",
+   "amount": "$18/hr"
+ },
+ {
+   "city": "San Antonio",
+   "amount": "$30,000"
+ },
+ {
+   "city": "San Antonio",
+   "amount": "41,000"
+ },
+ {
+   "city": "San Antonio, TX",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "San Diego",
+   "amount": "69000"
+ },
+ {
+   "city": "San Diego",
+   "amount": "$18"
+ },
+ {
+   "city": "San Diego",
+   "amount": "13.77/hr"
+ },
+ {
+   "city": "San Diego",
+   "amount": "1,00,000"
+ },
+ {
+   "city": "San Diego",
+   "amount": "$35,000"
+ },
+ {
+   "city": "San Diego",
+   "amount": "$65,000.00"
+ },
+ {
+   "city": "San Diego",
+   "amount": "$16/hr"
+ },
+ {
+   "city": "San Diego",
+   "amount": "$14.56/Hr"
+ },
+ {
+   "city": "San Diego",
+   "amount": "54,000"
+ },
+ {
+   "city": "San Diego",
+   "amount": "$22.94/hr"
+ },
+ {
+   "city": "San Diego",
+   "amount": "16"
+ },
+ {
+   "city": "San diego",
+   "amount": "13.50/hr"
+ },
+ {
+   "city": "San Diego",
+   "amount": "$14,500"
+ },
+ {
+   "city": "San Diego",
+   "amount": "13.25"
+ },
+ {
+   "city": "San Diego",
+   "amount": "$12.75"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$65,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "50,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "120000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$46,000.00"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$37,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "62,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$63,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$20/hr"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$70,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "65,000 (Ending)"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$110,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "40,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$24/hr"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "63000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "28.8 (Hour)"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "65,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "60000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$33.38"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$40,560.00"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "23.69/hr"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$52,000.00"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "48,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$74,000.00"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$102,000.00"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "61,984"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "70,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "74000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "1,18,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "74,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "US $78,600"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "46500"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "66,145"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "42,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "29.37/hr (53,451.05/yr)"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "90,506.00"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "31.92"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$28/hr"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "50759.8"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$48,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$29.37"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$27/hr (union)"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$52,000 ($28.57) (2018)"
+ },
+ {
+   "city": "SAN FRANCISCO",
+   "amount": "28.5"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "48,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$112,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "35,360"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "52,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "31,000"
+ },
+ {
+   "city": "SAN FRANCISCO",
+   "amount": "17.5"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "45000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$70,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "26.88/hr $52,416 /yr roughly"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$58,000.00"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "$68,000"
+ },
+ {
+   "city": "San Francisco",
+   "amount": "22.21"
+ },
+ {
+   "city": "San Francisco Bay Area",
+   "amount": "2019"
+ },
+ {
+   "city": "San Francisco Bay Area",
+   "amount": "$70,000"
+ },
+ {
+   "city": "San Francisco, California",
+   "amount": "$55,000"
+ },
+ {
+   "city": "San Jose",
+   "amount": "47,000"
+ },
+ {
+   "city": "San Jose",
+   "amount": "$15.00"
+ },
+ {
+   "city": "San Jose",
+   "amount": "17.00 per hour"
+ },
+ {
+   "city": "SAN JOSE, CA",
+   "amount": "20"
+ },
+ {
+   "city": "San Juan",
+   "amount": "41,000"
+ },
+ {
+   "city": "San Marino",
+   "amount": "46000"
+ },
+ {
+   "city": "San Marino",
+   "amount": "61800"
+ },
+ {
+   "city": "San Marino",
+   "amount": "$78,350"
+ },
+ {
+   "city": "San Marino",
+   "amount": "21.75/h"
+ },
+ {
+   "city": "San Marino",
+   "amount": "$24.00 per hour"
+ },
+ {
+   "city": "San Marino",
+   "amount": "61,000"
+ },
+ {
+   "city": "San Marino",
+   "amount": "22/hr"
+ },
+ {
+   "city": "San Marino",
+   "amount": "22.00 per hour"
+ },
+ {
+   "city": "San Marino, CA",
+   "amount": "$61,000.00"
+ },
+ {
+   "city": "San Marino, California",
+   "amount": "$13 an hour"
+ },
+ {
+   "city": "Santa Ana, CA",
+   "amount": "$14/hr"
+ },
+ {
+   "city": "Santa Barbara",
+   "amount": "$53,000"
+ },
+ {
+   "city": "Santa Barbara",
+   "amount": "37,440"
+ },
+ {
+   "city": "Santa Barbara",
+   "amount": "41,600"
+ },
+ {
+   "city": "Santa Barbara",
+   "amount": "$20/hr"
+ },
+ {
+   "city": "Santa Barbara",
+   "amount": "$37,440.00"
+ },
+ {
+   "city": "Santa Barbara",
+   "amount": "50K"
+ },
+ {
+   "city": "SANTA CLARA, CA",
+   "amount": "20"
+ },
+ {
+   "city": "Santa Fe",
+   "amount": "2019"
+ },
+ {
+   "city": "Santa Fe",
+   "amount": "$105,000"
+ },
+ {
+   "city": "Santa Fe",
+   "amount": "$18.00 Hourly"
+ },
+ {
+   "city": "Santa Fe",
+   "amount": "2018- 20.00 hr."
+ },
+ {
+   "city": "Santa Fe",
+   "amount": "$35,000"
+ },
+ {
+   "city": "Santa Fe, NM",
+   "amount": "$45,000"
+ },
+ {
+   "city": "Sao Paulo",
+   "amount": "USS 24.000 year"
+ },
+ {
+   "city": "Sarasota",
+   "amount": "$43,291.19"
+ },
+ {
+   "city": "Sarasota",
+   "amount": "$15.50"
+ },
+ {
+   "city": "Sarasota",
+   "amount": "US$ 42,000"
+ },
+ {
+   "city": "Sarasota",
+   "amount": "60,700"
+ },
+ {
+   "city": "Sarasota",
+   "amount": "$35,000"
+ },
+ {
+   "city": "Savannah",
+   "amount": "11.13 an hour"
+ },
+ {
+   "city": "Schaumburg",
+   "amount": "$28,000.00"
+ },
+ {
+   "city": "Seattle",
+   "amount": "$54,000"
+ },
+ {
+   "city": "Seattle",
+   "amount": "$17.63"
+ },
+ {
+   "city": "Seattle",
+   "amount": "24,000"
+ },
+ {
+   "city": "SEATTLE",
+   "amount": "29.25"
+ },
+ {
+   "city": "Seattle",
+   "amount": "45,000"
+ },
+ {
+   "city": "Seattle",
+   "amount": "65000"
+ },
+ {
+   "city": "Seattle",
+   "amount": "31000"
+ },
+ {
+   "city": "Seattle",
+   "amount": "45000"
+ },
+ {
+   "city": "Seattle",
+   "amount": "46000"
+ },
+ {
+   "city": "Seattle",
+   "amount": "41K"
+ },
+ {
+   "city": "Seattle",
+   "amount": "81,582 (Includes 5,122 Yearly Bonus)"
+ },
+ {
+   "city": "Seattle",
+   "amount": "42000"
+ },
+ {
+   "city": "Seattle",
+   "amount": "48,000"
+ },
+ {
+   "city": "Seattle",
+   "amount": "40,000"
+ },
+ {
+   "city": "Seattle",
+   "amount": "40,200"
+ },
+ {
+   "city": "Seattle",
+   "amount": "$15.00"
+ },
+ {
+   "city": "Seattle",
+   "amount": "41,000"
+ },
+ {
+   "city": "Seattle",
+   "amount": "$27,456 or $22/hr"
+ },
+ {
+   "city": "Seattle",
+   "amount": "$43,576"
+ },
+ {
+   "city": "Seattle",
+   "amount": "$18 per hour"
+ },
+ {
+   "city": "Seattle",
+   "amount": "$21.06/ hr ($40,435/ yr) FT 40hrs"
+ },
+ {
+   "city": "Seattle",
+   "amount": "n/a Hourly"
+ },
+ {
+   "city": "Seattle",
+   "amount": "57,000"
+ },
+ {
+   "city": "Seattle",
+   "amount": "$24/hr"
+ },
+ {
+   "city": "Seattle",
+   "amount": "$45,045"
+ },
+ {
+   "city": "Seattle",
+   "amount": "$76,009"
+ },
+ {
+   "city": "Seattle area",
+   "amount": "$38,000/year"
+ },
+ {
+   "city": "Seattle, WA",
+   "amount": "20/hr"
+ },
+ {
+   "city": "Seattle/Tacoma",
+   "amount": "$42,000.00"
+ },
+ {
+   "city": "Seoul",
+   "amount": "24000"
+ },
+ {
+   "city": "SF Bay Area",
+   "amount": "58,000"
+ },
+ {
+   "city": "SF Bay Area",
+   "amount": "$21,700"
+ },
+ {
+   "city": "SF Bay area",
+   "amount": "$80,000"
+ },
+ {
+   "city": "SF Bay area",
+   "amount": "$73,400.00"
+ },
+ {
+   "city": "SF Bay Area",
+   "amount": "62,000"
+ },
+ {
+   "city": "Shawnee",
+   "amount": "$12.00"
+ },
+ {
+   "city": "Sheboygan",
+   "amount": "$47,000"
+ },
+ {
+   "city": "Slobozia",
+   "amount": "489 US $/month"
+ },
+ {
+   "city": "Small City near Seattle, WA",
+   "amount": "22,000"
+ },
+ {
+   "city": "small upstate NY village",
+   "amount": "$15/hr"
+ },
+ {
+   "city": "small upstate NY village",
+   "amount": "$16.75"
+ },
+ {
+   "city": "South Florida",
+   "amount": "$43,878"
+ },
+ {
+   "city": "South NJ/Philadelphia",
+   "amount": "$17 /hr"
+ },
+ {
+   "city": "South Orange",
+   "amount": "51,500"
+ },
+ {
+   "city": "Southeast",
+   "amount": "$32,000.00"
+ },
+ {
+   "city": "Southeast",
+   "amount": "48,000"
+ },
+ {
+   "city": "Southern California",
+   "amount": "$120,000"
+ },
+ {
+   "city": "Southern California",
+   "amount": "61,540"
+ },
+ {
+   "city": "St Louis",
+   "amount": "19,200"
+ },
+ {
+   "city": "St. Augustine",
+   "amount": "37,000"
+ },
+ {
+   "city": "St. Louis",
+   "amount": "47,500"
+ },
+ {
+   "city": "St. Louis",
+   "amount": "$36,920"
+ },
+ {
+   "city": "St. Louis",
+   "amount": "$11/hr"
+ },
+ {
+   "city": "St. Louis",
+   "amount": "$18.75"
+ },
+ {
+   "city": "St. Mary's City",
+   "amount": "58,000"
+ },
+ {
+   "city": "St. Paul",
+   "amount": "60000"
+ },
+ {
+   "city": "St. Paul",
+   "amount": "Ending salary (2013): 39,000"
+ },
+ {
+   "city": "St. Paul",
+   "amount": "$45,000.00"
+ },
+ {
+   "city": "Stanford",
+   "amount": "68,000"
+ },
+ {
+   "city": "Stockholm",
+   "amount": "252000 SEK"
+ },
+ {
+   "city": "Stockholm",
+   "amount": "33 000 SEK"
+ },
+ {
+   "city": "Stony Brook",
+   "amount": "20.06/hourly (30 hours a week)"
+ },
+ {
+   "city": "Stratford, ON",
+   "amount": "$50,000 Canadian"
+ },
+ {
+   "city": "Suburb of Boston",
+   "amount": "42,000"
+ },
+ {
+   "city": "Sudbury ON",
+   "amount": "$70,000 CAD"
+ },
+ {
+   "city": "Suitland, MD",
+   "amount": "$42,000 (1990)"
+ },
+ {
+   "city": "Sydney",
+   "amount": "$83,403 AUD"
+ },
+ {
+   "city": "Sydney",
+   "amount": "41600 AUD"
+ },
+ {
+   "city": "Sydney",
+   "amount": "25/h"
+ },
+ {
+   "city": "Sydney",
+   "amount": "38800"
+ },
+ {
+   "city": "Tacoma, WA",
+   "amount": "47,480.00"
+ },
+ {
+   "city": "Tampa Bay",
+   "amount": "33,700"
+ },
+ {
+   "city": "Tatabánya",
+   "amount": "Net 155876 HUF"
+ },
+ {
+   "city": "Tempe",
+   "amount": "$81,000"
+ },
+ {
+   "city": "Terre Haute",
+   "amount": "$53,000.00"
+ },
+ {
+   "city": "Terre Haute",
+   "amount": "$25,500.00"
+ },
+ {
+   "city": "Texas",
+   "amount": "45000"
+ },
+ {
+   "city": "Texas",
+   "amount": "$80,000.00"
+ },
+ {
+   "city": "Texas",
+   "amount": "42,000"
+ },
+ {
+   "city": "Thomson",
+   "amount": "72,000"
+ },
+ {
+   "city": "Thousand Oaks",
+   "amount": "30,000"
+ },
+ {
+   "city": "Tokyo",
+   "amount": "Approx. 714 yen per hour"
+ },
+ {
+   "city": "Toledo",
+   "amount": "41,500"
+ },
+ {
+   "city": "Toronto",
+   "amount": "$52,201"
+ },
+ {
+   "city": "Toronto",
+   "amount": "45,000 CAD"
+ },
+ {
+   "city": "Toronto",
+   "amount": "$50,000 (CAD)"
+ },
+ {
+   "city": "Toronto",
+   "amount": "$50,900"
+ },
+ {
+   "city": "Toronto",
+   "amount": "45,000 Canadian Dollar"
+ },
+ {
+   "city": "Toronto",
+   "amount": "32000 CAD"
+ },
+ {
+   "city": "Toronto",
+   "amount": "$82,816.00"
+ },
+ {
+   "city": "Toronto",
+   "amount": "$72,000 CDN"
+ },
+ {
+   "city": "Toronto",
+   "amount": "52000"
+ },
+ {
+   "city": "Traverse City, MI",
+   "amount": "59000"
+ },
+ {
+   "city": "Tucson",
+   "amount": "40,000"
+ },
+ {
+   "city": "Tucson",
+   "amount": "2018 - $41,000"
+ },
+ {
+   "city": "Tucson",
+   "amount": "35,000"
+ },
+ {
+   "city": "Tucson",
+   "amount": "65,500"
+ },
+ {
+   "city": "Tucson",
+   "amount": "$0.00"
+ },
+ {
+   "city": "Tucson",
+   "amount": "$0.00"
+ },
+ {
+   "city": "Tucson",
+   "amount": "$0.00"
+ },
+ {
+   "city": "Tulsa",
+   "amount": "$50,000.00"
+ },
+ {
+   "city": "Twin Cities",
+   "amount": "42,960"
+ },
+ {
+   "city": "Undisclosed",
+   "amount": "10,000"
+ },
+ {
+   "city": "Upstate",
+   "amount": "$23.68"
+ },
+ {
+   "city": "Upstate NY",
+   "amount": "60,565"
+ },
+ {
+   "city": "Vadodara",
+   "amount": "$ 173/month"
+ },
+ {
+   "city": "Vancouver",
+   "amount": "35,000"
+ },
+ {
+   "city": "Vancouver",
+   "amount": "40,000"
+ },
+ {
+   "city": "Vancouver",
+   "amount": "$68,000 CAD"
+ },
+ {
+   "city": "Vancouver",
+   "amount": "$48,000"
+ },
+ {
+   "city": "Vancouver",
+   "amount": "44500"
+ },
+ {
+   "city": "Vancouver",
+   "amount": "$48,376"
+ },
+ {
+   "city": "Vancouver",
+   "amount": "$43,260"
+ },
+ {
+   "city": "Vancouver",
+   "amount": "$21.21"
+ },
+ {
+   "city": "Victoria",
+   "amount": "45,000"
+ },
+ {
+   "city": "Victoria",
+   "amount": "45,000"
+ },
+ {
+   "city": "Virginia",
+   "amount": "50,000"
+ },
+ {
+   "city": "Virginia",
+   "amount": "28,000"
+ },
+ {
+   "city": "Virginia Beach, VA",
+   "amount": "$41,250.00"
+ },
+ {
+   "city": "Vitry-sur-Seine",
+   "amount": "2138 euros (net salary)"
+ },
+ {
+   "city": "WA",
+   "amount": "54,000"
+ },
+ {
+   "city": "Waco",
+   "amount": "$14.43/hr"
+ },
+ {
+   "city": "Waltham",
+   "amount": "$21 per hour"
+ },
+ {
+   "city": "Washington",
+   "amount": "52,000"
+ },
+ {
+   "city": "Washington",
+   "amount": "47500"
+ },
+ {
+   "city": "Washington",
+   "amount": "$21.15/hr"
+ },
+ {
+   "city": "washington",
+   "amount": "72,842"
+ },
+ {
+   "city": "Washington",
+   "amount": "78,861"
+ },
+ {
+   "city": "WASHINGTON",
+   "amount": "65,000"
+ },
+ {
+   "city": "Washington",
+   "amount": "67,093"
+ },
+ {
+   "city": "Washington",
+   "amount": "48583"
+ },
+ {
+   "city": "Washington",
+   "amount": "85"
+ },
+ {
+   "city": "Washington D.C.",
+   "amount": "$87,000"
+ },
+ {
+   "city": "Washington D.C.",
+   "amount": "$14.50/hr"
+ },
+ {
+   "city": "Washington D.C.",
+   "amount": "$21.60/hr"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "70,000"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "$50,000"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "54,590"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "34008"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "37,000"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "60,000.00"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "84000"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "$65,000"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "$3,200 / month"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "$89,000.00"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "$156,000"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "$47,016"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "$76,541.00"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "$112,000.00"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "1,39,000"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "18.25"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "$54,000.00"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "74,220"
+ },
+ {
+   "city": "Washington DC",
+   "amount": "50,000"
+ },
+ {
+   "city": "Washington, D.C.",
+   "amount": "$53,000"
+ },
+ {
+   "city": "Washington, D.C.",
+   "amount": "2017"
+ },
+ {
+   "city": "Washington, D.C.",
+   "amount": "$18.50"
+ },
+ {
+   "city": "Washington, D.C.",
+   "amount": "$40,000"
+ },
+ {
+   "city": "Washington, D.C.",
+   "amount": "$61,343"
+ },
+ {
+   "city": "Washington, D.C.",
+   "amount": "70,926"
+ },
+ {
+   "city": "Washington, D.C.",
+   "amount": "80,000"
+ },
+ {
+   "city": "Washington, D.C.",
+   "amount": "69,050"
+ },
+ {
+   "city": "Washington, D.C.",
+   "amount": "40,800"
+ },
+ {
+   "city": "Washington, D.C.",
+   "amount": "$68,000"
+ },
+ {
+   "city": "Washington, D.C.",
+   "amount": "35,000"
+ },
+ {
+   "city": "Washington, D.C.",
+   "amount": "59,983"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "65,000"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$19/hr"
+ },
+ {
+   "city": "Washington, Dc",
+   "amount": "51,530"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "68000"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$19/hr ($39,000)"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "51,718"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "53,000"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "1,00,000"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$109,000"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "92000"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "1,08,000"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$89,703"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$78,750"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$22/hour"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$32,000"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$75,000"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$53,000"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "About $20-22 after taxes depending on how much “vacation” time I take"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$13.60 (2019)"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$13.00 (2011)"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$20/hr"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "69,500"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$9.00 (2000)"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$57,510.00"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$65,176"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$51,718"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "61,343"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$0"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "57,812"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "42000"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "35k"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$61,343.00"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "19.16"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "42,795"
+ },
+ {
+   "city": "Washington, DC",
+   "amount": "$76,540.63"
+ },
+ {
+   "city": "Water Mill",
+   "amount": "$18/hr."
+ },
+ {
+   "city": "Waukee",
+   "amount": "18/hr"
+ },
+ {
+   "city": "Waukesha",
+   "amount": "40,000"
+ },
+ {
+   "city": "West Chester",
+   "amount": "21.5"
+ },
+ {
+   "city": "West Palm Beach",
+   "amount": "$60,000.00"
+ },
+ {
+   "city": "West Palm Beach",
+   "amount": "$47,000"
+ },
+ {
+   "city": "Western MA",
+   "amount": "36,000"
+ },
+ {
+   "city": "Western Region",
+   "amount": "39500"
+ },
+ {
+   "city": "Wichita",
+   "amount": "$15 an hour"
+ },
+ {
+   "city": "Wichita",
+   "amount": "&28,600"
+ },
+ {
+   "city": "Wilkes Barre",
+   "amount": "75,000"
+ },
+ {
+   "city": "Williamsburg",
+   "amount": "$16.14"
+ },
+ {
+   "city": "Williamsburg",
+   "amount": "$31,500"
+ },
+ {
+   "city": "Williamsburg, VA",
+   "amount": "$57,600"
+ },
+ {
+   "city": "Williamstown",
+   "amount": "27,000"
+ },
+ {
+   "city": "Wilmington",
+   "amount": "45,000"
+ },
+ {
+   "city": "Wilmington, DE",
+   "amount": "$38,000"
+ },
+ {
+   "city": "WINNIPEG",
+   "amount": "38000"
+ },
+ {
+   "city": "Winnipeg, MB",
+   "amount": "16$"
+ },
+ {
+   "city": "Winona",
+   "amount": "$65,000"
+ },
+ {
+   "city": "Winterthur, DE",
+   "amount": "26,500"
+ },
+ {
+   "city": "Wisconsin",
+   "amount": "54,000"
+ },
+ {
+   "city": "Wisconsin",
+   "amount": "29,000"
+ },
+ {
+   "city": "Wisconsin",
+   "amount": "51,000"
+ },
+ {
+   "city": "Woking",
+   "amount": "£16,000"
+ },
+ {
+   "city": "Woodstock",
+   "amount": "78000"
+ },
+ {
+   "city": "York",
+   "amount": "£19569"
+ },
+ {
+   "city": "Zurich",
+   "amount": "40.-Chf/h"
+ },
+ {
+   "city": "Zurich",
+   "amount": "13'000"
+ }
+]
