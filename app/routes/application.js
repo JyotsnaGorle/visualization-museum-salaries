@@ -1,14 +1,14 @@
 import Ember from 'ember';
 import jQuery from 'jquery';
-// import yourData from 'demo-app/salaries.js';
 
 export default Ember.Route.extend({
 
   setupController(controller) {
+    var colors = ['#ef9a9a','#f48fb1','#b39ddb','#90caf9','#80deea','#80cbc4','#c5e1a5','#fff59d','#ffcc80','#ffab91'];
     this.controller.set('testing', "00dlaksjdsa");
-    console.log("sajdgasjdg")
     jQuery.getJSON(`http://localhost:5000/getData`).then(countries => {
       let finalArray = [];
+      let i = 0;
       for (let b in countries) {
         countries[b].map(each => {
           if (each.amount.match(/[+-]?\d+(?:\.\d+)?/g) != null) {
@@ -43,7 +43,7 @@ export default Ember.Route.extend({
         });
         let avg = allSum / countries[b].length;
         countries[b].average = avg ? avg : countries[b][0].value;
-        finalArray.push({name: b, value: countries[b].average, regions: countries[b]});
+        finalArray.push({name: b, value: countries[b].average, regions: countries[b], color: colors[(i++)%10]});
       }
       
       let allSum = finalArray.reduce(function (sum, b) {
@@ -64,12 +64,12 @@ export default Ember.Route.extend({
     expandBox(name) {
       let finalarray = this.controller.get('results');
       finalarray.map(each => {
+        Ember.set(each, "expand", false);
         if(each.name === name) {
           Ember.set(each, "expand", !(Ember.get(each, "expand")));
         }
         return each;
       });
-      console.log(finalarray);
       this.controller.set('results', finalarray);
     }
   }

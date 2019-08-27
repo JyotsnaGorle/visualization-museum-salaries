@@ -1,12 +1,24 @@
 .label {
-    float: left;
-    width: 500px;
+  float: left;
+  width: 500px;
 }
 
-.region-detail {
-    display: none;
+.region-detail, .region-detail2 {
+  position: relative;
+  opacity: 0;
+  height: 0;
+  visibility: hidden;
+  padding: 10px;
+  -webkit-transition: linear 600ms ;
+  transition: linear 600ms;
 }
 
-.region-detail.active {
-    display: block;
+.region-detail.active , .region-detail2.active {
+    display: inline-block;
+    position: relative;
+    height: 100%;
+    visibility: visible;
+    opacity: 1;
+    -webkit-transition: linear 600ms ;
+    transition: linear 600ms;
 }

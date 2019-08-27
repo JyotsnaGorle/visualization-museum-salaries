@@ -12,5 +12,11 @@ export default Ember.Component.extend({
   didReceiveAttrs() {
     this._super(...arguments);
   },
-
+  didInsertElement() {
+    var svg = select(this.$('.horizontal').get(0));
+    svg.append('rect')
+        .attr('width', this.get('average'))
+        .attr('height', 30)
+        .style('fill', this.get('color'));
+  }
 });
