@@ -20,7 +20,9 @@
   "devDependencies": {
     "@ember/jquery": "^0.6.0",
     "@ember/optional-features": "^0.7.0",
+    "babel-preset-stage-0": "^6.24.1",
     "broccoli-asset-rev": "^3.0.0",
+    "browserify": "^16.5.0",
     "ember-ajax": "^5.0.0",
     "ember-browserify": "^1.2.2",
     "ember-cli": "~3.12.0",
@@ -52,7 +54,6 @@
     "node": "8.* || >= 10.*"
   },
   "dependencies": {
-    "d3": "^5.11.0",
     "wft-geodb-js-client": "^1.3.2"
   }
 }

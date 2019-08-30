@@ -1,9 +1,11 @@
 {{#each results as |tag index|}}
-<div class="item" {{action 'expandBox' tag.name}}>
-  <div class="label"> {{tag.name}} </div>
+<div class="item">
+  <div class="label" {{action 'expandBox' tag}}> {{tag.name}} </div>
   <div class="graph"> {{hori-graph name=tag.name average=tag.percentage identity=index color=tag.color}} </div>
   {{!-- expanable emlement for regions graph --}}
-
+   {{#if tag.showJoin}}
+  <button class="showJoin" {{action 'showStackedGraph' tag}}>join</button>
+  {{/if}}
   <div class="region-detail {{if tag.expand "active"}}">
     <h4>Starting Salary</h4>
     {{region-graph regions=tag.regions name="starting" color=tag.color}}
@@ -11,6 +13,10 @@
   <div class="region-detail2 {{if tag.expand "active"}}">
     <h4>Current Salary</h4>
     {{region-graph regions=tag.regions name="current"  color=tag.color}}
+  </div>
+  <div class="region-stacked {{if tag.stacked "active"}}">
+    
+    {{stacked-graph regions1=tag.regions regions2=tag.regions}}
   </div>
 </div>
 {{/each}}

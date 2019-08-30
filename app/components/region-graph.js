@@ -1,19 +1,7 @@
 import Ember from 'ember';
-import jQuery from 'jquery';
 import {
   select
 } from 'd3-selection';
-import {
-  max
-} from 'd3-array';
-import {
-  scaleBand,
-  scaleLinear
-} from 'd3-scale';
-import {
-  axisBottom,
-  axisLeft
-} from 'd3-axis';
 
 export default Ember.Component.extend({
   classNames: ['region-graph'],

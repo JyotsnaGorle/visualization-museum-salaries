@@ -1,9 +1,26 @@
+body {
+  font-family: 'Manjari', sans-serif;
+}
+
+.item {
+  position: relative;
+}
+.graph {
+  border-bottom: 1px solid #eee;
+  padding: 10px;
+}
+
 .label {
   float: left;
   width: 500px;
+  float: left;
+  padding: 20px 0 0 20px;
+  width: 500px;
+  font-weight: bold;
 }
 
-.region-detail, .region-detail2 {
+.region-detail, .region-detail2, .region-stacked {
+  display: none;
   position: relative;
   opacity: 0;
   height: 0;
@@ -13,7 +30,7 @@
   transition: linear 600ms;
 }
 
-.region-detail.active , .region-detail2.active {
+.region-detail.active , .region-detail2.active , .region-stacked.active{
     display: inline-block;
     position: relative;
     height: 100%;
@@ -21,4 +38,26 @@
     opacity: 1;
     -webkit-transition: linear 600ms ;
     transition: linear 600ms;
+}
+
+.active h4 {
+  text-align: right;
+}
+
+button.showJoin {
+  position: absolute;
+  top: 80px;
+  right: 50%;
+  top: 20;
+  background: #ccc;
+  border: none;
+  border-width: 0;
+  outline: none;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+  background-color: #6e2091;
+  color: #ecf0f1;
+  transition: background-color .3s;
+  font-size: 15px;
+  padding: 5px 10px;
 }

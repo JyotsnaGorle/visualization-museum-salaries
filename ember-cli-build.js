@@ -1,12 +1,21 @@
 'use strict';
 
 const EmberApp = require('ember-cli/lib/broccoli/ember-app');
+var Funnel = require('broccoli-funnel');
 
 module.exports = function(defaults) {
   let app = new EmberApp(defaults, {
     // Add options here
   });
 
+  app.import('node_modules/d3/dist/d3.min.js', {
+    outputFile: 'assets/js/d3.min.js'
+  });
+
+  // app.import('dist/d3.layout.min.js', {
+  //   outputFile: 'assets/js/d3.layout.min.js'
+  // });
+  
   // Use `app.import` to add additional libraries to the generated
   // output files.
   //
