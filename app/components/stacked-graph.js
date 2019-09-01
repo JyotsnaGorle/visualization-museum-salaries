@@ -57,13 +57,13 @@ export default Ember.Component.extend({
       width = 550 - margin.left - margin.right,
       height = data.length * 12 - margin.top - margin.bottom;
 
-    var xScale = scaleLinear().range([0, width]);
+    var xScale = scaleLinear().rangeRound([0, width]);
     var yScale = scaleBand().rangeRound([height, 0]).padding(0.2);
 
-    // var color = scale.category20();
-
-
-    var svg = select("body");
+    var div = select(this.$('.parent').get(0)).append("div")
+      .attr("class", "tooltip")
+      .style("opacity", 0)
+      .style("position", "absolute");
 
     var svg = select(this.$('.jolly').get(0)).attr('height', height+100).attr('width', width);
     var g = svg.append("g").attr("transform", "translate(" + 120 + "," + margin.top + ")");
@@ -90,7 +90,7 @@ export default Ember.Component.extend({
       .enter().append("g")
       .attr("class", "series")
       .attr("fill", function (d, i) {
-        return color[i];
+        return color[i+2];
       })
       .selectAll("rect")
       .data(function (d) {
@@ -105,7 +105,19 @@ export default Ember.Component.extend({
       })
       .attr("height", yScale.bandwidth())
       .attr("width", function (d) {
-        return xScale(d[1]) - xScale(d[0])
+        return xScale(d[1]) - xScale(d[0]);
+      })
+      .on("mouseover", function (d, i) {
+        // Use D3 to select element, change color and size
+        div.style('transition-duration', '.8s')
+          .style("opacity", 1);
+        div.html(d.data.startingSalary.toFixed(2) + ", " + d.data.currentSalary.toFixed(2))
+          .style("left", 300 + "px")
+          .style("top", i +20 + "px");
+      })
+      .on("mouseout", function (d) {
+        div.style('transition-duration', '.8s')
+          .style("opacity", 0);
       });
 
 

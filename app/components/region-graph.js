@@ -13,33 +13,7 @@ export default Ember.Component.extend({
   },
   didInsertElement() {
 
-    var regions = this.get('regions');
-    let cleanedUpValues = regions.map(each => {
-      each.value = each.value ? each.value : 0;
-      each.value = each.value < 0 ? each.value * -1 : each.value;
-      return each;
-    });
-
-    const reducedArray = cleanedUpValues.reduce((m, d) => {
-      if (!m[d.city]) {
-        m[d.city] = {
-          ...d,
-          count: 1
-        };
-        return m;
-      }
-      m[d.city].value += d.value;
-      m[d.city].count += 1;
-      return m;
-    }, {});
-
-    const data = Object.keys(reducedArray).map((k) => {
-      const item = reducedArray[k];
-      return {
-        city: item.city,
-        value: item.value / item.count,
-      }
-    });
+    var data = this.get('regions');
 
     var height = 12 * data.length;
     var div = select(this.$('.parent').get(0)).append("div")
@@ -70,9 +44,9 @@ export default Ember.Component.extend({
         );
         div.style('transition-duration', '.5s')
           .style("opacity", .9);
-        div.html(d.value)
+        div.html(d.value.toFixed(2))
           .style("left", 300 + "px")
-          .style("top", i + (i * 10) + "px");
+          .style("top", i + (i * 10) + 65 + "px");
       })
       .on("mouseout", function (d) {
         select(this).attr(

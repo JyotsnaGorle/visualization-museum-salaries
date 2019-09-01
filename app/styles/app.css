@@ -1,53 +1,131 @@
 body {
-  font-family: 'Manjari', sans-serif;
+  font-family: 'Helvetica';
+  margin: 0 auto;
+  position: relative;
+}
+
+.title {
+  margin: 0 40px;
+  padding: 20px 20px 0 20px;
+}
+
+.title .name {
+  display: inline-block;
+  margin-left: 250px;
+  color: #727171;
+  font-size: 14px;
+}
+
+.main {
+  margin: 20px 50px 50px 50px;
+}
+
+h2.title {
+  text-align: center;
+  text-transform: uppercase;
+  color: #515151;
+  margin: 0 200px;
+  font-size: 30px;
+  border-bottom: solid 1px #515151;
+  padding: 34px 0 16px 0;
 }
 
 .item {
   position: relative;
+  padding: 5px;
 }
-.graph {
+
+.item summary {
   border-bottom: 1px solid #eee;
-  padding: 10px;
+}
+
+.item summary:focus {
+  outline: none;
+}
+
+.item summary:hover {
+  outline: none;
+  background-color: #eee;
+}
+
+details[open] summary ~ * {
+  animation: sweep .5s ease-in-out;
+}
+
+@keyframes sweep {
+  0%    {opacity: 0; margin-top: -10px}
+  100%  {opacity: 1; margin-top: 0px}
+}
+
+.graph {
+  display: inline-block;
+}
+
+.graph>div {
+  display: inline-block;
+  width: 500px;
 }
 
 .label {
-  float: left;
-  width: 500px;
-  float: left;
-  padding: 20px 0 0 20px;
-  width: 500px;
-  font-weight: bold;
+  width: 200px;
+    display: inline-block;
+    text-transform: capitalize;
+    color: #5f5c5c;
 }
 
-.region-detail, .region-detail2, .region-stacked {
+.region-detail.hide,
+.region-detail2.hide,
+.region-stacked,
+.treeMap {
   display: none;
   position: relative;
   opacity: 0;
   height: 0;
   visibility: hidden;
   padding: 10px;
-  -webkit-transition: linear 600ms ;
+  -webkit-transition: linear 600ms;
   transition: linear 600ms;
 }
 
-.region-detail.active , .region-detail2.active , .region-stacked.active{
-    display: inline-block;
-    position: relative;
-    height: 100%;
-    visibility: visible;
-    opacity: 1;
-    -webkit-transition: linear 600ms ;
-    transition: linear 600ms;
+.region-detail,
+.region-detail2,
+.treeMap.active,
+.region-stacked.active {
+  display: inline-block;
+  position: relative;
+  height: 100%;
+  visibility: visible;
+  opacity: 1;
+  -webkit-transition: linear 600ms;
+  transition: linear 600ms;
 }
 
-.active h4 {
+.region-stacked.active {
+  display: block;
+  width: 50%;
+  float: left;
+}
+
+.region-detail h4,
+.region-detail2 h4 {
   text-align: right;
+}
+
+.treeMap.active h4,
+.region-stacked.active h4 {
+  text-align: center;
+}
+
+h4 span {
+  font-size: 14px;
+  color: #aaa;
+  font-weight: normal;
 }
 
 button.showJoin {
   position: absolute;
   top: 80px;
-  right: 50%;
+  right: 0;
   top: 20;
   background: #ccc;
   border: none;
