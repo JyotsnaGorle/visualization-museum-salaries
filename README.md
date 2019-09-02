@@ -21,8 +21,13 @@ You will need the following things properly installed on your computer.
 ## Running / Development
 
 * `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
+* Visit your app at the localhost port that has been displayed on the terminal/
+
+## Run the server for json data
+* you will need python 3 installed
+* in the terminal `cd /server`
+* pip install flask and others and then
+* py3 server.py 
 
 ### Code Generators
 
