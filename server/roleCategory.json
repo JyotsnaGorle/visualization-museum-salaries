@@ -1,0 +1,3994 @@
+[
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "Philadelphia",
+   "country": "United States of America",
+   "startingSalary": "550000",
+   "currentSalary": "175000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Marketing Director",
+   "city": "Texas",
+   "country": "United States of America",
+   "startingSalary": "43000",
+   "currentSalary": "57000"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Technology and Digital Media",
+   "city": "Texas",
+   "country": "United States of America",
+   "startingSalary": "$46,000",
+   "currentSalary": "$55,000"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Director",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "90000",
+   "currentSalary": "95000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Gallery Assistant",
+   "city": "London",
+   "country": "United Kingdom",
+   "startingSalary": "£18, 600",
+   "currentSalary": "£19, 000"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Digital Asset Coordinator",
+   "city": "Oklahoma City",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "40700"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Leadership giving coordinator",
+   "city": "Los angeles",
+   "country": "United States of America",
+   "startingSalary": "48000",
+   "currentSalary": "55000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education coordinator",
+   "city": "Vancouver",
+   "country": "Canada",
+   "startingSalary": "35000",
+   "currentSalary": "35000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "conservator",
+   "city": "Auckland",
+   "country": "New Zealand",
+   "startingSalary": "66625",
+   "currentSalary": "80398"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Communications Coordinator",
+   "city": "Grand Rapids",
+   "country": "United States of America",
+   "startingSalary": "$12/hour",
+   "currentSalary": "$13.25"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Administration and Marketing",
+   "city": "Greater Toronto Area (GTA)",
+   "country": "Canada",
+   "startingSalary": "18/ hr CAD",
+   "currentSalary": "$19.73"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Conservator",
+   "city": "Mexico City",
+   "country": "Mexico",
+   "startingSalary": "7000 MXN",
+   "currentSalary": "11080 MXN (before taxes)"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Conservation Technician",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$13.50/hr",
+   "currentSalary": "$13.50"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "CURATOR OF MODERN AND CONTEMPORARY ART",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "57500",
+   "currentSalary": "SAME AS ABOVE"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar and Collections Manager",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "55000",
+   "currentSalary": "55000"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Director",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "41K",
+   "currentSalary": "$47,526"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Communications Coordinator",
+   "city": "Edmonton",
+   "country": "Canada",
+   "startingSalary": "$5,000",
+   "currentSalary": "$4,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Sr Recruiting Coordinator",
+   "city": "Michigan",
+   "country": "United States of America",
+   "startingSalary": "$41,000",
+   "currentSalary": "$57,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Director",
+   "city": "Dallas",
+   "country": "United States of America",
+   "startingSalary": "32000",
+   "currentSalary": "56000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Development Manager",
+   "city": "Louisiana",
+   "country": "United States of America",
+   "startingSalary": "$35,000",
+   "currentSalary": "$50,000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "associate curator",
+   "city": "New Haven",
+   "country": "United States of America",
+   "startingSalary": "67000",
+   "currentSalary": "77000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Librarian",
+   "city": "New Haven",
+   "country": "United States of America",
+   "startingSalary": "52000",
+   "currentSalary": "75000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "65000",
+   "currentSalary": "65000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Conservation Assistant",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "$25/hr",
+   "currentSalary": "$22/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director of Development",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "$62,000",
+   "currentSalary": "$62,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Curator",
+   "city": "Midwest",
+   "country": "United States of America",
+   "startingSalary": "60000",
+   "currentSalary": "60000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Associate Curator",
+   "city": "New England",
+   "country": "United States of America",
+   "startingSalary": "60k",
+   "currentSalary": "60k"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Curator of Academic Programs",
+   "city": "New England",
+   "country": "United States of America",
+   "startingSalary": "45000",
+   "currentSalary": "62000"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Director",
+   "city": "New England",
+   "country": "United States of America",
+   "startingSalary": "$90,000",
+   "currentSalary": "$110,000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Visitor Services",
+   "city": "Mid Atlantic City",
+   "country": "United States of America",
+   "startingSalary": "$50,000",
+   "currentSalary": "$51,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Curator",
+   "city": "Mid-Atlantic",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "Portland, OR",
+   "country": "United States of America",
+   "startingSalary": "$50,000",
+   "currentSalary": "$62,000"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Director",
+   "city": "Seattle",
+   "country": "United States of America",
+   "startingSalary": "$50,000",
+   "currentSalary": "$54,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director",
+   "city": "Clarksville",
+   "country": "United States of America",
+   "startingSalary": "$46,000.00",
+   "currentSalary": "$52,000.00"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "Metro-Atlanta",
+   "country": "United States of America",
+   "startingSalary": "63036",
+   "currentSalary": "63036"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Librarian",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "55000",
+   "currentSalary": "62000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director of Exhibits",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "45326",
+   "currentSalary": "59741"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Project Archivist",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "55000",
+   "currentSalary": "55000"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Director",
+   "city": "New York City",
+   "country": "United States of America",
+   "startingSalary": "107000",
+   "currentSalary": "119000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Museum Assistant",
+   "city": "New England",
+   "country": "United States of America",
+   "startingSalary": "$23.77/hour",
+   "currentSalary": "$28.08/hour"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Visitor Services",
+   "city": "Cambridge, MA",
+   "country": "United States of America",
+   "startingSalary": "$13.00/hr",
+   "currentSalary": "13.50/hr"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Senior Curator",
+   "city": "New England",
+   "country": "United States of America",
+   "startingSalary": "$90,000",
+   "currentSalary": "$110,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Academic Programs Coordinator",
+   "city": "Florida",
+   "country": "United States of America",
+   "startingSalary": "$55,000",
+   "currentSalary": "$56,100"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Gallery Director and Curator",
+   "city": "Minneapolis",
+   "country": "United States of America",
+   "startingSalary": "$50,000",
+   "currentSalary": "$54,500"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Digital Organizer",
+   "city": "Minneapolis",
+   "country": "United States of America",
+   "startingSalary": "$15/hr",
+   "currentSalary": "$15/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Deputy Director",
+   "city": "California",
+   "country": "United States of America",
+   "startingSalary": "$91,000",
+   "currentSalary": "$125,000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Digital Archivist",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$32/hour",
+   "currentSalary": "$30/hour"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "Austin",
+   "country": "United States of America",
+   "startingSalary": "$56,000",
+   "currentSalary": "$58,000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Museum Operations",
+   "city": "Flagstaff",
+   "country": "United States of America",
+   "startingSalary": "12444",
+   "currentSalary": "13464"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Manager",
+   "city": "Arizona",
+   "country": "United States of America",
+   "startingSalary": "35000",
+   "currentSalary": "37000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director",
+   "city": "Arizona",
+   "country": "United States of America",
+   "startingSalary": "50000",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Associate Archivist",
+   "city": "Arizona",
+   "country": "United States of America",
+   "startingSalary": "$55,000",
+   "currentSalary": "56610"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Communications Coordinator",
+   "city": "Ontario",
+   "country": "Canada",
+   "startingSalary": "$25,000 CAN",
+   "currentSalary": "$29,000 CAN"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Lead Designer",
+   "city": "London",
+   "country": "Canada",
+   "startingSalary": "46000",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Collections Manager",
+   "city": "Paris",
+   "country": "France",
+   "startingSalary": "18000",
+   "currentSalary": "19000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Director of Education",
+   "city": "Texas",
+   "country": "United States of America",
+   "startingSalary": "40 K",
+   "currentSalary": "41, 170"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Art Advisor",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "52500"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Head of Research",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$32,000",
+   "currentSalary": "$380,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education, communication and customer service Director",
+   "city": "Montreal",
+   "country": "Canada",
+   "startingSalary": "29 000 $ Can",
+   "currentSalary": "40 000$ Can"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director of Exhibitions and Collections",
+   "city": "Hudson Valley",
+   "country": "United States of America",
+   "startingSalary": "22,000 (3 days week employment)",
+   "currentSalary": "57,500 (5 days a week)"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Part-time instructor",
+   "city": "Maryland",
+   "country": "United States of America",
+   "startingSalary": "30/hour",
+   "currentSalary": "30/hour"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Director, Chief Curator",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "85000",
+   "currentSalary": "105000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Community Ambassador Manager",
+   "city": "Reading",
+   "country": "United States of America",
+   "startingSalary": "$14 / hour",
+   "currentSalary": "$30,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education Director",
+   "city": "Reading",
+   "country": "United States of America",
+   "startingSalary": "$38,000",
+   "currentSalary": "$40,000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Arthandler",
+   "city": "Zurich",
+   "country": "Switzerland",
+   "startingSalary": "40.- Chf./h",
+   "currentSalary": "40.-Chf/h"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Academic Coordinator",
+   "city": "LS",
+   "country": "United States of America",
+   "startingSalary": "55000",
+   "currentSalary": "55000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Manager",
+   "city": "Hong Kong",
+   "country": "Hong Kong",
+   "startingSalary": "HKD16,000",
+   "currentSalary": "HKD21,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Designer",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$25/Hour",
+   "currentSalary": "$32/Hour"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Relation Executive",
+   "city": "London",
+   "country": "United Kingdom",
+   "startingSalary": "£25000",
+   "currentSalary": "Same as starting"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant curator (Internship)",
+   "city": "Kyoto",
+   "country": "Japan",
+   "startingSalary": "¥0",
+   "currentSalary": "¥0"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Director",
+   "city": "Atlanta",
+   "country": "United States of America",
+   "startingSalary": "28500",
+   "currentSalary": "31000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Manager",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$19,000",
+   "currentSalary": "$19,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Assistant",
+   "city": "New York, New York",
+   "country": "United States of America",
+   "startingSalary": "$17/hr",
+   "currentSalary": "$17/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Associate",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "36000",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$44,000",
+   "currentSalary": "$54,000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "Michigan",
+   "country": "United States of America",
+   "startingSalary": "43000",
+   "currentSalary": "52000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "Michigan",
+   "country": "United States of America",
+   "startingSalary": "43000",
+   "currentSalary": "52000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Artist Liaison",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$0",
+   "currentSalary": "$22/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "$18/hr",
+   "currentSalary": "$18/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Communications",
+   "city": "Paris",
+   "country": "France",
+   "startingSalary": "19800 (gross salary)",
+   "currentSalary": "33850 (gross salary)"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "30000",
+   "currentSalary": "34000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Community Engagement Coordinator",
+   "city": "Orillia",
+   "country": "Canada",
+   "startingSalary": "40, 000 CAD",
+   "currentSalary": "40, 000 CAD"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Community Engagement Coordinator",
+   "city": "Orillia",
+   "country": "Canada",
+   "startingSalary": "40, 000 CAD",
+   "currentSalary": "40, 000 CAD"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Director",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$200,000",
+   "currentSalary": "$250,000"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Director",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$250,000 plus commission",
+   "currentSalary": "$250,000 plus commission ($500,000 - 1,000,000)"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Director",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "75000",
+   "currentSalary": "130,000 + commission"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Associate Director",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "50000",
+   "currentSalary": "90000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Associate Director",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "45,000 + bonuses",
+   "currentSalary": "50,000 + bonuses"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Digital Technician",
+   "city": "New York City",
+   "country": "United States of America",
+   "startingSalary": "$18/hr",
+   "currentSalary": "$18.50/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Associate Editor",
+   "city": "Delhi",
+   "country": "India",
+   "startingSalary": "$5,200",
+   "currentSalary": "$5,200"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant",
+   "city": "Tokyo",
+   "country": "Japan",
+   "startingSalary": "¥900",
+   "currentSalary": "¥900"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Rights & permissions specialist",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "43000",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Development Operations",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$72,000.00",
+   "currentSalary": "$74,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Project Coordinator",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "46000",
+   "currentSalary": "46000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Gallery Security Officer",
+   "city": "Baltimore",
+   "country": "United States of America",
+   "startingSalary": "$11/hr",
+   "currentSalary": "$13/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Education - Assistant Director",
+   "city": "Tennessee",
+   "country": "United States of America",
+   "startingSalary": "$35,000",
+   "currentSalary": "$35,000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Visitor Services Manager",
+   "city": "Tennessee",
+   "country": "United States of America",
+   "startingSalary": "$14/hr",
+   "currentSalary": "$33,000 yearly salary in 2018"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Graphic Design",
+   "city": "Tennessee",
+   "country": "United States of America",
+   "startingSalary": "13",
+   "currentSalary": "13.86"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Head of Archives/Library",
+   "city": "Washington DC",
+   "country": "United States of America",
+   "startingSalary": "50000",
+   "currentSalary": "70000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Fellowship",
+   "city": "Saint Louis",
+   "country": "United States of America",
+   "startingSalary": "$35,500",
+   "currentSalary": "$2,019.00"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "Stockholm",
+   "country": "Sweden",
+   "startingSalary": "32500 SEK",
+   "currentSalary": "34800 SEK"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education Assistant",
+   "city": "Saint Louis",
+   "country": "United States of America",
+   "startingSalary": "$30,000",
+   "currentSalary": "$30,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Coordinator",
+   "city": "Ontario",
+   "country": "Canada",
+   "startingSalary": "$24,500",
+   "currentSalary": "$26,250"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "librarian",
+   "city": "new york",
+   "country": "new york",
+   "startingSalary": "40000",
+   "currentSalary": "80000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Administrative Assistant",
+   "city": "Ohio",
+   "country": "United States of America",
+   "startingSalary": "31000",
+   "currentSalary": "31000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director",
+   "city": "Detroit",
+   "country": "United States of America",
+   "startingSalary": "45000",
+   "currentSalary": "90000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Assistant Curator",
+   "city": "Arizona",
+   "country": "United States of America",
+   "startingSalary": "35000",
+   "currentSalary": "35000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Development Associate",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$40,000",
+   "currentSalary": "$40,000"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "IT Support",
+   "city": "Arizona",
+   "country": "United States of America",
+   "startingSalary": "$32,000",
+   "currentSalary": "$37,500"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Marketing Manager",
+   "city": "Montgomery",
+   "country": "United States of America",
+   "startingSalary": "36000",
+   "currentSalary": "37000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Educator",
+   "city": "Montgomery",
+   "country": "United States of America",
+   "startingSalary": "28000",
+   "currentSalary": "42750"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Digital Asset Manager",
+   "city": "Montgomery",
+   "country": "United States of America",
+   "startingSalary": "35000",
+   "currentSalary": "40126.06"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Art Handler",
+   "city": "San Francisco Bay Area",
+   "country": "United States of America",
+   "startingSalary": "22000",
+   "currentSalary": "22880"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Associate conservator",
+   "city": "San Francisco Bay Area",
+   "country": "United States of America",
+   "startingSalary": "$52,500",
+   "currentSalary": "$54,075"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curatorial Fellow",
+   "city": "San Francisco Bay Area",
+   "country": "United States of America",
+   "startingSalary": "10.00/hr",
+   "currentSalary": "10.00/hr"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Technology",
+   "city": "San Francisco Bay Area",
+   "country": "United States of America",
+   "startingSalary": "67000",
+   "currentSalary": "2019"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Content Marketing Manager",
+   "city": "Tucson",
+   "country": "United States of America",
+   "startingSalary": "55000",
+   "currentSalary": "62000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Registrar",
+   "city": "Tucson",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education Associate",
+   "city": "La Conner, WA",
+   "country": "United States of America",
+   "startingSalary": "$16 per hour",
+   "currentSalary": "$16 per hour"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Registrar",
+   "city": "Connecticut",
+   "country": "United States of America",
+   "startingSalary": "$30,000",
+   "currentSalary": "$30,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Digital Asset Manager",
+   "city": "Detroit",
+   "country": "United States of America",
+   "startingSalary": "45000",
+   "currentSalary": "49000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Collections Manager",
+   "city": "Memphis, TN",
+   "country": "United States of America",
+   "startingSalary": "$32,000",
+   "currentSalary": "$38,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "assistant director",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "44000",
+   "currentSalary": "46000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Librarian",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "11424",
+   "currentSalary": "11592"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Library Assistant",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "$15/hr",
+   "currentSalary": "$15.45"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Development Associate",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "35000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Associate Registrar Digital Resources",
+   "city": "New England",
+   "country": "United States of America",
+   "startingSalary": "43000",
+   "currentSalary": "54000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Cataloguer",
+   "city": "Boston",
+   "country": "United States of America",
+   "startingSalary": "$18/hr",
+   "currentSalary": "$18/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "New Initiatives Manager",
+   "city": "Outside of Boston",
+   "country": "United States of America",
+   "startingSalary": "$60,000 US",
+   "currentSalary": "$61,500 US (2018)"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Education Director",
+   "city": "Southeast",
+   "country": "United States of America",
+   "startingSalary": "$19,000.00",
+   "currentSalary": "$32,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Marketing Director",
+   "city": "Southeast",
+   "country": "United States of America",
+   "startingSalary": "44900",
+   "currentSalary": "49900"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Associate Curator",
+   "city": "Southeast",
+   "country": "United States of America",
+   "startingSalary": "$50,000",
+   "currentSalary": "$62,500"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curatorial Assistant/Exhibitions Coordinator",
+   "city": "Southeast",
+   "country": "United States of America",
+   "startingSalary": "$14.85 per hr",
+   "currentSalary": "$20.70 per hr"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "Northwest",
+   "country": "United States of America",
+   "startingSalary": "n/a",
+   "currentSalary": "$98,000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Visitor Services Associate",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "$18/hr",
+   "currentSalary": "$19/hr"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Digital Asset Manager",
+   "city": "Midwest",
+   "country": "United States of America",
+   "startingSalary": "16500",
+   "currentSalary": "42000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "collections manager",
+   "city": "Texas",
+   "country": "United States of America",
+   "startingSalary": "35000",
+   "currentSalary": "45000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Research and evaluation",
+   "city": "Cleveland",
+   "country": "United States of America",
+   "startingSalary": "25000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director of Membership and Annual Giving",
+   "city": "Philadelphia",
+   "country": "United States of America",
+   "startingSalary": "$65,000",
+   "currentSalary": "$65,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Librarian",
+   "city": "Philadelphia",
+   "country": "United States of America",
+   "startingSalary": "63000",
+   "currentSalary": "63000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Digital Assets Manager",
+   "city": "Buffalo, NY",
+   "country": "United States of America",
+   "startingSalary": "27000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Assistant Curator of Education",
+   "city": "Montgomery",
+   "country": "United States of America",
+   "startingSalary": "42098",
+   "currentSalary": "43533"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "Montgomery",
+   "country": "United States of America",
+   "startingSalary": "44000",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director of Engagement",
+   "city": "Santa Barbara",
+   "country": "United States of America",
+   "startingSalary": "$46,000",
+   "currentSalary": "$53,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "",
+   "city": "Phoenix",
+   "country": "United States of America",
+   "startingSalary": "$78,000",
+   "currentSalary": "$86,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education Assistant",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$18/hr",
+   "currentSalary": "$20.51/hr"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "program manager",
+   "city": "Boston",
+   "country": "United States of America",
+   "startingSalary": "26880",
+   "currentSalary": "55000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Conservator",
+   "city": "Portland, Oregon",
+   "country": "United States of America",
+   "startingSalary": "75000",
+   "currentSalary": "80000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Preparator",
+   "city": "Tampa Bay",
+   "country": "United States of America",
+   "startingSalary": "21000",
+   "currentSalary": "33700"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Museum Educator",
+   "city": "Milwaukee",
+   "country": "United States of America",
+   "startingSalary": "$20,000",
+   "currentSalary": "$20,000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Supervisor",
+   "city": "Seattle",
+   "country": "United States of America",
+   "startingSalary": "$14/hr",
+   "currentSalary": "$17.63"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Programs Manager",
+   "city": "San Francisco",
+   "country": "United States of America",
+   "startingSalary": "$50,000",
+   "currentSalary": "$65,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Executive Director",
+   "city": "Southern California",
+   "country": "United States of America",
+   "startingSalary": "$110,000",
+   "currentSalary": "$120,000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curatorial Assistant",
+   "city": "Denver",
+   "country": "United States of America",
+   "startingSalary": "36000",
+   "currentSalary": "42000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Coordinator",
+   "city": "New York City",
+   "country": "United States of America",
+   "startingSalary": "$40,000",
+   "currentSalary": "$40,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Program Facilitator",
+   "city": "Denver",
+   "country": "United States of America",
+   "startingSalary": "$12/hr",
+   "currentSalary": "$13/hr"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Lead Sales Associate",
+   "city": "Pittsburgh",
+   "country": "United States of America",
+   "startingSalary": "$11.50 per hour",
+   "currentSalary": "$11.50 per hour"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Exhibition Designer/Lead Preparator",
+   "city": "Pacific Northwest",
+   "country": "United States of America",
+   "startingSalary": "",
+   "currentSalary": "52000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education",
+   "city": "Pacific Northwest",
+   "country": "United States of America",
+   "startingSalary": "$31,000",
+   "currentSalary": "$32,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education",
+   "city": "Florida",
+   "country": "United States of America",
+   "startingSalary": "$31,000",
+   "currentSalary": "$32,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Experiences Assistant",
+   "city": "Orlando",
+   "country": "United States of America",
+   "startingSalary": "9",
+   "currentSalary": "9"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Collections Manager",
+   "city": "Washington, Dc",
+   "country": "United States of America",
+   "startingSalary": "48500",
+   "currentSalary": "51530"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Assistant Educator",
+   "city": "Ohio",
+   "country": "United States of America",
+   "startingSalary": "37500",
+   "currentSalary": "37500"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Public affairs/ programmes",
+   "city": "Ohio",
+   "country": "Belgium",
+   "startingSalary": "3400",
+   "currentSalary": "$3,400.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Administrative Assistant",
+   "city": "Philadelphia",
+   "country": "United States of America",
+   "startingSalary": "$37,440",
+   "currentSalary": "$37,440"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Exhibition Coordinator",
+   "city": "Montreal",
+   "country": "Canada",
+   "startingSalary": "16.50/hour",
+   "currentSalary": "16.50/hour"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Studio Manager",
+   "city": "London",
+   "country": "United Kingdom",
+   "startingSalary": "£30,000",
+   "currentSalary": "£30,000"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Executive Director",
+   "city": "Toronto",
+   "country": "Canada",
+   "startingSalary": "$37,500 CAD",
+   "currentSalary": "$52,201"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Executive Director",
+   "city": "Vancouver",
+   "country": "Canada",
+   "startingSalary": "40000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Archivist",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "43000",
+   "currentSalary": "43000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Academic research & grant manager",
+   "city": "Toronto",
+   "country": "Canada",
+   "startingSalary": "45,000 CAD",
+   "currentSalary": "45,000 CAD"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Communications Manager",
+   "city": "New York City",
+   "country": "United States of America",
+   "startingSalary": "50000",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Programs Director",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$50,000.00",
+   "currentSalary": "$52,500.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Manager",
+   "city": "Philadelphia, PA",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "42000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Development Manager",
+   "city": "Philadelphia, PA",
+   "country": "United States of America",
+   "startingSalary": "53000",
+   "currentSalary": "53000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Executive Director",
+   "city": "Seattle",
+   "country": "United States of America",
+   "startingSalary": "15000",
+   "currentSalary": "24000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Grant Writer",
+   "city": "Kansas City",
+   "country": "United States of America",
+   "startingSalary": "50000",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Administrative Assistant",
+   "city": "Kansas City",
+   "country": "United States of America",
+   "startingSalary": "$37,000",
+   "currentSalary": "$37,000"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Digital Content Manager",
+   "city": "NYC",
+   "country": "United States of America",
+   "startingSalary": "$18/hour",
+   "currentSalary": "47000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Manager",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$45,000",
+   "currentSalary": "$47,000 (2014)"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Director of Admissions",
+   "city": "San Francisco",
+   "country": "United States of America",
+   "startingSalary": "45000",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Program Manager",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "35000",
+   "currentSalary": "80000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Head of Sale",
+   "city": "London",
+   "country": "United Kingdom",
+   "startingSalary": "35,000 GBP",
+   "currentSalary": "35,000 GBP"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Specialist",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$31,000.00",
+   "currentSalary": "$35,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "VP",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$175,000",
+   "currentSalary": "$180,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant PR Manager",
+   "city": "Hong Kong",
+   "country": "Hong Kong",
+   "startingSalary": "HKD 30,000",
+   "currentSalary": "30,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Manager",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "28000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Museum Manager",
+   "city": "SF Bay Area",
+   "country": "United States of America",
+   "startingSalary": "$14/hour",
+   "currentSalary": "$20/Hour"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Editor/Copywriter",
+   "city": "SF Bay Area",
+   "country": "United States of America",
+   "startingSalary": "$42/hour",
+   "currentSalary": "$48/hour"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Assistant Curator",
+   "city": "SF Bay Area",
+   "country": "United States of America",
+   "startingSalary": "$80,000.00",
+   "currentSalary": "$80,000.00"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "public program manager",
+   "city": "SF Bay Area",
+   "country": "United States of America",
+   "startingSalary": "38000",
+   "currentSalary": "58000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Registrar",
+   "city": "SF Bay Area",
+   "country": "United States of America",
+   "startingSalary": "$54,000",
+   "currentSalary": "$55,000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curatorial Assistant",
+   "city": "SF Bay Area",
+   "country": "United States of America",
+   "startingSalary": "62000",
+   "currentSalary": "62000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "San Francisco",
+   "country": "United States of America",
+   "startingSalary": "$22.50",
+   "currentSalary": "$22.50"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant",
+   "city": "Berkeley",
+   "country": "United States of America",
+   "startingSalary": "21.00 / hour",
+   "currentSalary": "23.50 / hour"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Curator",
+   "city": "Berkeley",
+   "country": "United States of America",
+   "startingSalary": "30000",
+   "currentSalary": "49000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Associate Curator",
+   "city": "Berkeley",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "sales assistant",
+   "city": "New York City",
+   "country": "United States of America",
+   "startingSalary": "38400",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Staff Writer",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "65000",
+   "currentSalary": "65000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Sales Assistant",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$50,000",
+   "currentSalary": "$60,000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Studio assistant",
+   "city": "Brooklyn",
+   "country": "United States of America",
+   "startingSalary": "32000",
+   "currentSalary": "38000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Art Handler and Building Operations",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "50000",
+   "currentSalary": "75000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Exhibition Designer",
+   "city": "Boston",
+   "country": "United States of America",
+   "startingSalary": "75000",
+   "currentSalary": "77400"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Development Associate",
+   "city": "Boston",
+   "country": "United States of America",
+   "startingSalary": "42000",
+   "currentSalary": "$42,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Development Manager",
+   "city": "Boston",
+   "country": "United States of America",
+   "startingSalary": "$32,000",
+   "currentSalary": "$52,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Grant writer",
+   "city": "NYC",
+   "country": "United States of America",
+   "startingSalary": "",
+   "currentSalary": "58500"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Marketing & Communications Manager",
+   "city": "Philadelphia",
+   "country": "United States of America",
+   "startingSalary": "46583",
+   "currentSalary": "46583"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Assistant",
+   "city": "Philadelphia",
+   "country": "United States of America",
+   "startingSalary": "$18/hr",
+   "currentSalary": "$18/hr"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Database Administrator",
+   "city": "Victoria",
+   "country": "Canada",
+   "startingSalary": "45,000 CAD",
+   "currentSalary": "45000"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Database Administrator",
+   "city": "Victoria",
+   "country": "Canada",
+   "startingSalary": "45,000 CAD",
+   "currentSalary": "45000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Accounts Payable Administrator",
+   "city": "Brooklyn",
+   "country": "United States of America",
+   "startingSalary": "$47,250.00",
+   "currentSalary": "$50,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "graphic designer",
+   "city": "oakland",
+   "country": "United States of America",
+   "startingSalary": "$45,000",
+   "currentSalary": "$59,000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Associate curator",
+   "city": "Oakland",
+   "country": "United States of America",
+   "startingSalary": "",
+   "currentSalary": "59000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Acting COO",
+   "city": "San Diego",
+   "country": "United States of America",
+   "startingSalary": "27000",
+   "currentSalary": "69000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Executive Director",
+   "city": "San Francisco",
+   "country": "United States of America",
+   "startingSalary": "105000",
+   "currentSalary": "120000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Associate curator",
+   "city": "San Francisco",
+   "country": "United States of America",
+   "startingSalary": "50000",
+   "currentSalary": "60000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Development Assistant",
+   "city": "California",
+   "country": "United States of America",
+   "startingSalary": "$45,000",
+   "currentSalary": "45,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Exhibition Manager",
+   "city": "California",
+   "country": "United States of America",
+   "startingSalary": "35500",
+   "currentSalary": "35500"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Preparator",
+   "city": "San Diego",
+   "country": "United States of America",
+   "startingSalary": "$12.50",
+   "currentSalary": "$18"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Curator",
+   "city": "Caribbean",
+   "country": "United States of America",
+   "startingSalary": "",
+   "currentSalary": "$30,000.00"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Art Instructor",
+   "city": "California",
+   "country": "United States of America",
+   "startingSalary": "$9",
+   "currentSalary": "$10"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education Director",
+   "city": "Louisiana",
+   "country": "United States of America",
+   "startingSalary": "$22,000",
+   "currentSalary": "$26,000 (2000)"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Office Manager/Public Engagement",
+   "city": "Lynchburg, VA",
+   "country": "United States of America",
+   "startingSalary": "$31,200",
+   "currentSalary": "$35,759.88"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Registrar",
+   "city": "California",
+   "country": "United States of America",
+   "startingSalary": "$40,000.00",
+   "currentSalary": "40,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "45000",
+   "currentSalary": "45000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Project Archivist",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$15.00",
+   "currentSalary": "$26.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Assistant",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "15/hr",
+   "currentSalary": "32000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "62500",
+   "currentSalary": "62500"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curatorial Fellow",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "$50,000.00",
+   "currentSalary": "$50,000.00"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Customer Service Staff",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "",
+   "currentSalary": "12/hr"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Digital Asset Manager",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "47500",
+   "currentSalary": "55000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Senior Collection Manager",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "47500",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar / Collections Manager",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "$24/hour",
+   "currentSalary": "$24/hour"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Archivist/Librarian",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "$52,000",
+   "currentSalary": "$52,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Marketing Coordinator",
+   "city": "Indianapolis",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director",
+   "city": "Indianapolis",
+   "country": "United States of America",
+   "startingSalary": "70000",
+   "currentSalary": "70000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Capital Project Assistant",
+   "city": "Minnesota",
+   "country": "United States of America",
+   "startingSalary": "30000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education Director",
+   "city": "Indianapolis",
+   "country": "United States of America",
+   "startingSalary": "80000",
+   "currentSalary": "80000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Store Manager",
+   "city": "Olympia",
+   "country": "United States of America",
+   "startingSalary": "$37,500.00",
+   "currentSalary": "$39,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Program Manager",
+   "city": "San Francisco",
+   "country": "United States of America",
+   "startingSalary": "37000",
+   "currentSalary": "$46,000.00"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Exhibits Specialist",
+   "city": "San Francisco",
+   "country": "United States of America",
+   "startingSalary": "$28,000",
+   "currentSalary": "$37,000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Senior Visitor Services Associate",
+   "city": "San Diego",
+   "country": "United States of America",
+   "startingSalary": "12.50/hr",
+   "currentSalary": "13.77/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Social Media Manager",
+   "city": "Olympia",
+   "country": "United States of America",
+   "startingSalary": "",
+   "currentSalary": "60000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery director",
+   "city": "Los angeles",
+   "country": "United States of America",
+   "startingSalary": "25200",
+   "currentSalary": "25,200 + commission"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Museum interpreter",
+   "city": "Shawnee, Kansas",
+   "country": "United States of America",
+   "startingSalary": "$12.00",
+   "currentSalary": "$12.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant",
+   "city": "California",
+   "country": "United States of America",
+   "startingSalary": "$6.95",
+   "currentSalary": "$6.95"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Director",
+   "city": "New England",
+   "country": "United States of America",
+   "startingSalary": "$56,275",
+   "currentSalary": "$57,682"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Manager",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "65000",
+   "currentSalary": "73000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Marketing and Programming Coordinator",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "41000",
+   "currentSalary": "49000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Museum Manager",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "51000",
+   "currentSalary": "51000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Director",
+   "city": "New York City",
+   "country": "United States of America",
+   "startingSalary": "30000",
+   "currentSalary": "47000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director",
+   "city": "Boston",
+   "country": "United States of America",
+   "startingSalary": "37000 plus 15% commission",
+   "currentSalary": "37000 plus 15% commission"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "INVENTORY AND PHOTOGRAPHY",
+   "city": "WINNIPEG",
+   "country": "United States of America",
+   "startingSalary": "36000",
+   "currentSalary": "38000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Program Director",
+   "city": "Toronto",
+   "country": "Canada",
+   "startingSalary": "$42,000 (CAD)",
+   "currentSalary": "$50,000 (CAD)"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Youth Programs Manager",
+   "city": "Philadelphia",
+   "country": "United States of America",
+   "startingSalary": "32000",
+   "currentSalary": "39220"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "Maryland",
+   "country": "United States of America",
+   "startingSalary": "40k",
+   "currentSalary": "52k"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Marketing Director",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$50,000",
+   "currentSalary": "$52,000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Assistant curator",
+   "city": "Undisclosed",
+   "country": "Outside of the US",
+   "startingSalary": "10000",
+   "currentSalary": "10000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Director",
+   "city": "London",
+   "country": "United Kingdom",
+   "startingSalary": "£20.00/hr",
+   "currentSalary": "£20.00/hr"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Executive Director",
+   "city": "San Diego",
+   "country": "United States of America",
+   "startingSalary": "100000",
+   "currentSalary": "100000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Educator",
+   "city": "Seoul",
+   "country": "South Korea",
+   "startingSalary": "21500",
+   "currentSalary": "24000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education Assistant",
+   "city": "Mexico City",
+   "country": "Mexico",
+   "startingSalary": "13,700 USD (gross)",
+   "currentSalary": "14,300 USD (gross)"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Assistant Director of Exhibitions",
+   "city": "Cleveland",
+   "country": "United States of America",
+   "startingSalary": "28000 (as Assistant Registrar)",
+   "currentSalary": "49000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "administrative assistant",
+   "city": "Cleveland",
+   "country": "United States of America",
+   "startingSalary": "$12/hr",
+   "currentSalary": "$12/hr"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Videographer",
+   "city": "Cleveland",
+   "country": "United States of America",
+   "startingSalary": "28,000 US Dollars / Year",
+   "currentSalary": "28,000 US Dollars / Year"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "Paris",
+   "country": "France",
+   "startingSalary": "20 000 euros",
+   "currentSalary": "35 000 euros"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Graphic Designer",
+   "city": "Miami",
+   "country": "United States of America",
+   "startingSalary": "37000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Curatorial Administrative Coordinator",
+   "city": "Miami",
+   "country": "United States of America",
+   "startingSalary": "$32,880 + $500 travel and research budget",
+   "currentSalary": "$38,850 + $500 travel and research budget"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Public Programme Producer",
+   "city": "Yorkshire",
+   "country": "United Kingdom",
+   "startingSalary": "£18,000",
+   "currentSalary": "£19,500"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Archives Assistant",
+   "city": "New York City",
+   "country": "United States of America",
+   "startingSalary": "$18 / hr",
+   "currentSalary": "$18 / hr"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "Toronto",
+   "country": "Canada",
+   "startingSalary": "$46,500 CAD",
+   "currentSalary": "$50,900"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Preparator",
+   "city": "Cleveland",
+   "country": "United States of America",
+   "startingSalary": "$42,000",
+   "currentSalary": "$43,500"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "",
+   "country": "United States of America",
+   "startingSalary": "60000",
+   "currentSalary": "75432"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Museum Manager",
+   "city": "Philadelphia",
+   "country": "United States of America",
+   "startingSalary": "$43,000.00",
+   "currentSalary": "$57,000.00"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Director",
+   "city": "Upstate New York",
+   "country": "United States of America",
+   "startingSalary": "$42,500.00",
+   "currentSalary": "$54,950.00"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Executive Director",
+   "city": "Winona",
+   "country": "United States of America",
+   "startingSalary": "$65,000",
+   "currentSalary": "$65,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "executive director",
+   "city": "Winona",
+   "country": "United States of America",
+   "startingSalary": "18000",
+   "currentSalary": "18000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Conservation Technician",
+   "city": "Hartford",
+   "country": "United States of America",
+   "startingSalary": "34500",
+   "currentSalary": "35535"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Membership Manager",
+   "city": "Greater Portland Metro Area",
+   "country": "United States of America",
+   "startingSalary": "50000",
+   "currentSalary": "51500"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Volunteer Manager",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "68000",
+   "currentSalary": "68000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Membership Manager",
+   "city": "Washington DC",
+   "country": "United States of America",
+   "startingSalary": "",
+   "currentSalary": "$50,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Art Coordinator",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "$17/hr",
+   "currentSalary": "$19/hr ($39,000)"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Manager",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "51000",
+   "currentSalary": "52200"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Director of Curatorial Affairs",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "80000",
+   "currentSalary": "90000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Exhibits Curator",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "32000",
+   "currentSalary": "32000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Program Manager",
+   "city": "Toronto",
+   "country": "Canada",
+   "startingSalary": "35,000 Canadian Dollar",
+   "currentSalary": "45,000 Canadian Dollar"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education Staff",
+   "city": "Memphis",
+   "country": "United States of America",
+   "startingSalary": "$20/hour",
+   "currentSalary": "2017"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Manager",
+   "city": "East Coast",
+   "country": "United States of America",
+   "startingSalary": "$36,750.00",
+   "currentSalary": "$39,500.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Curatorial Intern",
+   "city": "East Coast",
+   "country": "United States of America",
+   "startingSalary": "$20/Hr",
+   "currentSalary": "$20/Hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Communications Manager",
+   "city": "East Coast",
+   "country": "United States of America",
+   "startingSalary": "65000",
+   "currentSalary": "67000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Visitor Services and Volunteer Programs Manager",
+   "city": "Richmond",
+   "country": "United States of America",
+   "startingSalary": "31000",
+   "currentSalary": "35000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Registrar/Preparator",
+   "city": "Richmond",
+   "country": "United States of America",
+   "startingSalary": "18/HR",
+   "currentSalary": "19.78/HR"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Museum Assistant",
+   "city": "Ontario",
+   "country": "Canada",
+   "startingSalary": "$24.38 CAD",
+   "currentSalary": "$27.67 CAD"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Outreach Coordinator",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "$23/hr, 950 hours per year",
+   "currentSalary": "$23/hr, 950 hours per year"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Postdoctoral Fellow",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "50000",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Assistant",
+   "city": "Hull",
+   "country": "United Kingdom",
+   "startingSalary": "£17,000",
+   "currentSalary": "£18,685"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator, Coordinator",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "$15,000",
+   "currentSalary": "$15,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Artist Liaison",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "$60,000.00",
+   "currentSalary": "$82,000.00"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Library Technician",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "$41,330",
+   "currentSalary": "51718"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education Specialist",
+   "city": "Philadephia",
+   "country": "United States of America",
+   "startingSalary": "72000",
+   "currentSalary": "83326"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education Programs Manager",
+   "city": "Philadephia",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Librarian",
+   "city": "Denver, CO",
+   "country": "United States of America",
+   "startingSalary": "64000",
+   "currentSalary": "75000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Admin",
+   "city": "Denver, CO",
+   "country": "United States of America",
+   "startingSalary": "$14/hr",
+   "currentSalary": "$15.50/hr"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "shipping coordinator",
+   "city": "new york",
+   "country": "United States of America",
+   "startingSalary": "$48,000.00",
+   "currentSalary": "$54,000.00"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Assistant Curator",
+   "city": "Chattanooga",
+   "country": "United States of America",
+   "startingSalary": "$27K",
+   "currentSalary": "$40K"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director",
+   "city": "Chattanooga",
+   "country": "United States of America",
+   "startingSalary": "0",
+   "currentSalary": "6000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Assistant Curator of Exhibits",
+   "city": "Chattanooga",
+   "country": "United States of America",
+   "startingSalary": "30000",
+   "currentSalary": "35000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Manager of Visitor Services",
+   "city": "Melbourne",
+   "country": "United States of America",
+   "startingSalary": "26,000 Salary",
+   "currentSalary": "17.14 hourly"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Gallery assistant",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$15/hour",
+   "currentSalary": "$15/hour"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Associate Director",
+   "city": "Philadelphia",
+   "country": "United States of America",
+   "startingSalary": "$15/hr",
+   "currentSalary": "$26.40/hr + commissions"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "writer/editor",
+   "city": "LA, OC, Santa Fe",
+   "country": "United States of America",
+   "startingSalary": "$52,000 FT or $25/hour PT",
+   "currentSalary": "2018"
+ },
+ {
+   "roleCategory": "",
+   "role": "",
+   "city": "LA, OC, Santa Fe",
+   "country": "United States of America",
+   "startingSalary": "42000",
+   "currentSalary": "45000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant",
+   "city": "New York City",
+   "country": "United States of America",
+   "startingSalary": "$35,000",
+   "currentSalary": "$35,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Collections Registrar",
+   "city": "London",
+   "country": "United Kingdom",
+   "startingSalary": "£22,200",
+   "currentSalary": "£25,800"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Intern",
+   "city": "Paris",
+   "country": "France",
+   "startingSalary": "",
+   "currentSalary": "3,75 EUR/h"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Archivist/Assistant Director",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "65000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director / Curator",
+   "city": "Stratford, ON",
+   "country": "Canada",
+   "startingSalary": "$50,000 Canadian",
+   "currentSalary": "$50,000 Canadian"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Gallery Assistant",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$15/hr",
+   "currentSalary": "$20/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Manager",
+   "city": "London",
+   "country": "United Kingdom",
+   "startingSalary": "8GBPp/h",
+   "currentSalary": "15552"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Archivist",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "65000",
+   "currentSalary": "65000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Archivist",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "60000",
+   "currentSalary": "60000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Junior Collection Manager",
+   "city": "Bern",
+   "country": "Switzerland",
+   "startingSalary": "54000.- CHF",
+   "currentSalary": "54000.- CHF"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant",
+   "city": "New York City",
+   "country": "United States of America",
+   "startingSalary": "$45,000",
+   "currentSalary": "$52,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Director",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$18/hour",
+   "currentSalary": "$25/hour"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curatorial Assistant (start) / Curator of Collections (end)",
+   "city": "Oakland, CA",
+   "country": "United States of America",
+   "startingSalary": "$12/hr",
+   "currentSalary": "$28/hr"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Gallery Assistant",
+   "city": "Brussels",
+   "country": "Belgium",
+   "startingSalary": "28200 EUR",
+   "currentSalary": "28200 EUR"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Grant writer",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "52000 contract",
+   "currentSalary": "57000 contract"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Grants Manager",
+   "city": "North East",
+   "country": "United States of America",
+   "startingSalary": "65000",
+   "currentSalary": "72000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Director",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "$10,000",
+   "currentSalary": "$10,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "Philadephia",
+   "country": "United States of America",
+   "startingSalary": "$41,000",
+   "currentSalary": "$43,074.60"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Associate Director/Collections Manager",
+   "city": "Alta Loma",
+   "country": "United States of America",
+   "startingSalary": "$17.00/hour",
+   "currentSalary": "47000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Associate Director/Collections Manager",
+   "city": "Alta Loma",
+   "country": "United States of America",
+   "startingSalary": "$17.00/hour",
+   "currentSalary": "47000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Group Tour Manager",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$39,000",
+   "currentSalary": "39000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Museum Curator",
+   "city": "Metro Detroit",
+   "country": "United States of America",
+   "startingSalary": "$28,000.00",
+   "currentSalary": "$40,000.00"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education Coordinator (Humanities)",
+   "city": "Metro Detroit",
+   "country": "United States of America",
+   "startingSalary": "48500",
+   "currentSalary": "48500"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "Calgary",
+   "country": "Canada",
+   "startingSalary": "43000 CAD",
+   "currentSalary": "50000 CAD"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator and Collection Manager",
+   "city": "Rockville",
+   "country": "United States of America",
+   "startingSalary": "$52,000",
+   "currentSalary": "$60,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Programs & Collections Coordinator",
+   "city": "Boston, MA",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "42000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Interpretive Coordinator",
+   "city": "Columbia, SC",
+   "country": "United States of America",
+   "startingSalary": "36000",
+   "currentSalary": "42000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Executive Director & Curator",
+   "city": "Knoxville",
+   "country": "United States of America",
+   "startingSalary": "30000",
+   "currentSalary": "30000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Archivist",
+   "city": "California",
+   "country": "United States of America",
+   "startingSalary": "$15.00",
+   "currentSalary": "$17.00"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Manager Education",
+   "city": "Hudson Valley",
+   "country": "United States of America",
+   "startingSalary": "50000",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Collections & Furnishings Specialist",
+   "city": "Dearborn, MI",
+   "country": "United States of America",
+   "startingSalary": "39000",
+   "currentSalary": "411375"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Manager",
+   "city": "Washington DC",
+   "country": "United States of America",
+   "startingSalary": "42000",
+   "currentSalary": "54590"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Capital Campaign",
+   "city": "Washington DC",
+   "country": "United States of America",
+   "startingSalary": "$38,000",
+   "currentSalary": "$38,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Programs Coordinator",
+   "city": "Western New York",
+   "country": "United States of America",
+   "startingSalary": "$31,400",
+   "currentSalary": "$36,400"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "associate conservator",
+   "city": "los angeles",
+   "country": "United States of America",
+   "startingSalary": "$9/hr",
+   "currentSalary": "$25/hr (promoted)"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Operations and Membership Manager",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "$45,000.00",
+   "currentSalary": "$46,350.00"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Educator",
+   "city": "Virginia",
+   "country": "United States of America",
+   "startingSalary": "$25,000",
+   "currentSalary": "$48, 000"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Executive Director",
+   "city": "Durham",
+   "country": "United States of America",
+   "startingSalary": "$56,000",
+   "currentSalary": "$60,000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Site Manager",
+   "city": "Durham",
+   "country": "United States of America",
+   "startingSalary": "39500",
+   "currentSalary": "42000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Collections Manager",
+   "city": "Northeast",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Conservator",
+   "city": "St. Mary's City",
+   "country": "United States of America",
+   "startingSalary": "58000",
+   "currentSalary": "58000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Editing, publications, communications",
+   "city": "Portland",
+   "country": "United States of America",
+   "startingSalary": "$22.20/hour",
+   "currentSalary": "50,000 (32 hrs/week)"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "illinois",
+   "country": "United States of America",
+   "startingSalary": "20",
+   "currentSalary": "25"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Membership Manager",
+   "city": "San Diego",
+   "country": "United States of America",
+   "startingSalary": "$32,000",
+   "currentSalary": "$35,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Programs + Membership Coordinator",
+   "city": "San Diego",
+   "country": "United States of America",
+   "startingSalary": "37000",
+   "currentSalary": "40789"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Archivist",
+   "city": "Twin Cities",
+   "country": "United States of America",
+   "startingSalary": "36000",
+   "currentSalary": "42960"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator(partime)",
+   "city": "Twin Cities",
+   "country": "United States of America",
+   "startingSalary": "25350",
+   "currentSalary": "30914"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Exhibitions Research Assistant",
+   "city": "Indianapolis",
+   "country": "United States of America",
+   "startingSalary": "14/hr",
+   "currentSalary": "14/hr"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Executive Director",
+   "city": "Indianapolis",
+   "country": "United States of America",
+   "startingSalary": "37000",
+   "currentSalary": "37000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "Seattle area",
+   "country": "United States of America",
+   "startingSalary": "$36,000/year",
+   "currentSalary": "$38,000/year"
+ },
+ {
+   "roleCategory": "Executive",
+   "role": "Executive Director",
+   "city": "Albany, NY",
+   "country": "United States of America",
+   "startingSalary": "50000",
+   "currentSalary": "54000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "outreach, editing, management",
+   "city": "Portland, Oregon",
+   "country": "United States of America",
+   "startingSalary": "graduate stipend (different position)",
+   "currentSalary": "$90,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Executive Director",
+   "city": "Port Townsend",
+   "country": "United States of America",
+   "startingSalary": "55000",
+   "currentSalary": "55000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "education manager",
+   "city": "New Orleans",
+   "country": "United States of America",
+   "startingSalary": "65000",
+   "currentSalary": "70000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "education coordinator",
+   "city": "New Orleans",
+   "country": "United States of America",
+   "startingSalary": "$45,000.00",
+   "currentSalary": "48000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator of Collections",
+   "city": "New Orleans",
+   "country": "United States of America",
+   "startingSalary": "32000",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Director of Education",
+   "city": "Virginia",
+   "country": "United States of America",
+   "startingSalary": "35000",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Graphic Designer",
+   "city": "Washington, D.C.",
+   "country": "United States of America",
+   "startingSalary": "$50,000",
+   "currentSalary": "$53,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Manager of Public Programs",
+   "city": "Metro Detroit",
+   "country": "United States of America",
+   "startingSalary": "35000",
+   "currentSalary": "36000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Assistant Curator",
+   "city": "Toronto",
+   "country": "Canada",
+   "startingSalary": "32000 CAD",
+   "currentSalary": "32000 CAD"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director of Development",
+   "city": "Texas",
+   "country": "United States of America",
+   "startingSalary": "$65,000.00",
+   "currentSalary": "$80,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Museum Design Coordinator",
+   "city": "Charlotte, NC",
+   "country": "United States of America",
+   "startingSalary": "$24,960",
+   "currentSalary": "$27,040"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator of Collections",
+   "city": "Flint, Michigan",
+   "country": "United States of America",
+   "startingSalary": "$48,000.00",
+   "currentSalary": "49440"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Office Manager",
+   "city": "Texas",
+   "country": "United States of America",
+   "startingSalary": "30000",
+   "currentSalary": "42000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Community Programs Manager",
+   "city": "Baltimore",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Museum Assistant",
+   "city": "Monterey",
+   "country": "United States of America",
+   "startingSalary": "$20/hr",
+   "currentSalary": "2019"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Educator",
+   "city": "Monterey",
+   "country": "United States of America",
+   "startingSalary": "$9/hr",
+   "currentSalary": "$12.50/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "Monterey",
+   "country": "United States of America",
+   "startingSalary": "$34,700",
+   "currentSalary": "$40,000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Conservator",
+   "city": "Monterey",
+   "country": "United States of America",
+   "startingSalary": "55000",
+   "currentSalary": "55000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Program Manager",
+   "city": "Minneapolis",
+   "country": "United States of America",
+   "startingSalary": "$30,000",
+   "currentSalary": "$30,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Public Programs Coordinator",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "28900",
+   "currentSalary": "38000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Collections Manager",
+   "city": "Bethlehem, PA",
+   "country": "United States of America",
+   "startingSalary": "$12.50/hour",
+   "currentSalary": "$15/hour"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Development Manager",
+   "city": "Metro Detroit",
+   "country": "United States of America",
+   "startingSalary": "65000",
+   "currentSalary": "66500"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Exhibition Graphic Designer",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "50000",
+   "currentSalary": "53000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "School Programs Coordinator",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "$31,000.00",
+   "currentSalary": "$36,000.00"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education Manager",
+   "city": "Las Vegas, NV",
+   "country": "United States of America",
+   "startingSalary": "$45,000.00",
+   "currentSalary": "$54,900.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Public Engagement Coordinator",
+   "city": "Renton",
+   "country": "United States of America",
+   "startingSalary": "23400",
+   "currentSalary": "23790"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Education Coordinator",
+   "city": "Seattle/Tacoma",
+   "country": "United States of America",
+   "startingSalary": "$36,000.00",
+   "currentSalary": "$42,000.00"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Project Manager",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "58000",
+   "currentSalary": "100000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Archives Aide",
+   "city": "NYC",
+   "country": "United States of America",
+   "startingSalary": "$20/hr",
+   "currentSalary": "$22/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Public Programs Manager",
+   "city": "NYC",
+   "country": "United States of America",
+   "startingSalary": "$52,000.00",
+   "currentSalary": "$58,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Development Coordinator",
+   "city": "Philadelphia",
+   "country": "United States of America",
+   "startingSalary": "$40,000",
+   "currentSalary": "$40,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Prospect Research and Analytics",
+   "city": "Indianapolis",
+   "country": "United States of America",
+   "startingSalary": "$45,000",
+   "currentSalary": "$50,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Marketing Manager",
+   "city": "Indianapolis",
+   "country": "United States of America",
+   "startingSalary": "$38,000",
+   "currentSalary": "$40,000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Volunteer Manager",
+   "city": "Cincinnati",
+   "country": "United States of America",
+   "startingSalary": "30000",
+   "currentSalary": "30000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Exhibitions Manager",
+   "city": "Cincinnati",
+   "country": "United States of America",
+   "startingSalary": "$39,000.00",
+   "currentSalary": "$41,000.00"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Project Archivist",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "$32,000",
+   "currentSalary": "approx. $36,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Research Assistant",
+   "city": "Seattle, WA",
+   "country": "United States of America",
+   "startingSalary": "20/hr",
+   "currentSalary": "20/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Freelance writer",
+   "city": "Mumbai",
+   "country": "India",
+   "startingSalary": "$300 per month//$3,600 per year",
+   "currentSalary": "$720 per month//$8,640 per year"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Senior Director, Conservation",
+   "city": "Indianapolis",
+   "country": "United States of America",
+   "startingSalary": "$12,000",
+   "currentSalary": "$68,000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Conservation Technician",
+   "city": "Indianapolis",
+   "country": "United States of America",
+   "startingSalary": "$34,000",
+   "currentSalary": "$34,000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Conservator",
+   "city": "Indianapolis",
+   "country": "Canada",
+   "startingSalary": "50,000 CAD",
+   "currentSalary": "50,000 CAD"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Operations Manager",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "35000",
+   "currentSalary": "45000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Director of Production",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Executive Assistant",
+   "city": "Houston",
+   "country": "United States of America",
+   "startingSalary": "70000",
+   "currentSalary": "70000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director of Development",
+   "city": "Fort Worth",
+   "country": "United States of America",
+   "startingSalary": "125000",
+   "currentSalary": "166000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Sales Support",
+   "city": "Louisiana",
+   "country": "United States of America",
+   "startingSalary": "$15/hr",
+   "currentSalary": "$17/hr"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curatorial Assistant",
+   "city": "Hong Kong",
+   "country": "China",
+   "startingSalary": "15,000 HK$",
+   "currentSalary": "19,000 HK$"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant project manager",
+   "city": "Rome",
+   "country": "Italy",
+   "startingSalary": "€560,00",
+   "currentSalary": "910"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Registrar",
+   "city": "Melbourne",
+   "country": "Australia",
+   "startingSalary": "64000 AU$",
+   "currentSalary": "64000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Handler",
+   "city": "Miami",
+   "country": "United States of America",
+   "startingSalary": "44200",
+   "currentSalary": "46410"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Producer",
+   "city": "rio de janeiro",
+   "country": "brazil",
+   "startingSalary": "br$ 12.000",
+   "currentSalary": "br$ 12.000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Member Services Associate",
+   "city": "Philadelphia",
+   "country": "United States of America",
+   "startingSalary": "$15.66/hr",
+   "currentSalary": "$16.00/hr"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "Philadelphia",
+   "country": "United States of America",
+   "startingSalary": "28000",
+   "currentSalary": "29500"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Paper conservator",
+   "city": "Rio de Janeiro",
+   "country": "Brazil",
+   "startingSalary": "R$ 3000,00",
+   "currentSalary": "R$ 3500,00"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Conservation Fellow",
+   "city": "Atlanta",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "40000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Membership Coordinator",
+   "city": "Western Region",
+   "country": "United States of America",
+   "startingSalary": "18.50/hr",
+   "currentSalary": "39500"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Chief Curator",
+   "city": "Denver",
+   "country": "United States of America",
+   "startingSalary": "$105,000",
+   "currentSalary": "$113,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Director",
+   "city": "London",
+   "country": "United Kingdom",
+   "startingSalary": "£24,000",
+   "currentSalary": "£35,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Manager",
+   "city": "Cooperstown",
+   "country": "United States of America",
+   "startingSalary": "32000",
+   "currentSalary": "33190"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Gallery Manager",
+   "city": "New York",
+   "country": "New York",
+   "startingSalary": "$42,000.00",
+   "currentSalary": "$42,000.00"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Associate Conservator",
+   "city": "Boston",
+   "country": "United States of America",
+   "startingSalary": "$42,000",
+   "currentSalary": "$64,000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Historic Interpreter",
+   "city": "Savannah",
+   "country": "United States of America",
+   "startingSalary": "11.00 a hour",
+   "currentSalary": "11.13 an hour"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Database Administrator",
+   "city": "Savannah",
+   "country": "United States of America",
+   "startingSalary": "$50,000",
+   "currentSalary": "$50,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Marketing Director",
+   "city": "Clarksville, Tennessee",
+   "country": "United States of America",
+   "startingSalary": "22000",
+   "currentSalary": "26000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Director of Facilities",
+   "city": "Texas",
+   "country": "United States of America",
+   "startingSalary": "100000",
+   "currentSalary": "100000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Assistant Performance Producer (Assistant Curator of Performance)",
+   "city": "Sarasota",
+   "country": "United States of America",
+   "startingSalary": "",
+   "currentSalary": "$43,291.19"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Interpreter",
+   "city": "Dayton",
+   "country": "United States of America",
+   "startingSalary": "33000",
+   "currentSalary": "35000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Store Manager & Buyer",
+   "city": "Wilmington",
+   "country": "United States of America",
+   "startingSalary": "45000",
+   "currentSalary": "45000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Programme Manager",
+   "city": "London",
+   "country": "United Kingdom",
+   "startingSalary": "GBP 29,000 (including London Allowance)",
+   "currentSalary": "GBP 29,000 (including London Allowance)"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Development Assistant",
+   "city": "West Coast",
+   "country": "United States of America",
+   "startingSalary": "$12.50",
+   "currentSalary": "$12.50"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "intern",
+   "city": "Berlin",
+   "country": "Germany",
+   "startingSalary": "2,5 €/h",
+   "currentSalary": "2,5 €/h"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Exhibition and Special Project Coordinator",
+   "city": "LOUISVILLE",
+   "country": "United States of America",
+   "startingSalary": "$31,000",
+   "currentSalary": "$36,000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Exhibition and Gallery Assistant",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$32,000 USD",
+   "currentSalary": "$32,000 USD"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Archivist",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$55,000",
+   "currentSalary": "$64,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant curator",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$71,500",
+   "currentSalary": "$2,019.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Curator",
+   "city": "Ontario",
+   "country": "Canada",
+   "startingSalary": "$67,500",
+   "currentSalary": "$67,500"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Librarian",
+   "city": "Texas",
+   "country": "United States of America",
+   "startingSalary": "",
+   "currentSalary": "$60,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Collections Assistant",
+   "city": "New York City",
+   "country": "United States of America",
+   "startingSalary": "38,000 contract paid out as $20/hr",
+   "currentSalary": "38000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Exhibition Contractor",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$25 / hr",
+   "currentSalary": "$25 / hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Curatorial Assistant",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "43000",
+   "currentSalary": "44000"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "database coordinator",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "37962",
+   "currentSalary": "56325"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Consulting Curator",
+   "city": "Texas",
+   "country": "United States of America",
+   "startingSalary": "$18,000",
+   "currentSalary": "$18,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Executive Assistant",
+   "city": "Midwest",
+   "country": "United States of America",
+   "startingSalary": "$40,000.00",
+   "currentSalary": "$50,000.00"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Associate Curator",
+   "city": "West Coast",
+   "country": "United States of America",
+   "startingSalary": "$65,000",
+   "currentSalary": "$68,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Publishing Director",
+   "city": "Midatlantic",
+   "country": "United States of America",
+   "startingSalary": "108000",
+   "currentSalary": "111000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Director of Development",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "110000",
+   "currentSalary": "110000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Manager of Exhibitions",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$70,000",
+   "currentSalary": "$74,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Educator",
+   "city": "north east",
+   "country": "United States of America",
+   "startingSalary": "$18/hr",
+   "currentSalary": "$21/hr"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Program Coordinator",
+   "city": "Boston",
+   "country": "United States of America",
+   "startingSalary": "$30,000",
+   "currentSalary": "$32,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Curator",
+   "city": "Boston",
+   "country": "United States of America",
+   "startingSalary": "$41,000",
+   "currentSalary": "$42,000"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "adjunct educator",
+   "city": "Boston",
+   "country": "United States of America",
+   "startingSalary": "12/h",
+   "currentSalary": "23.15/h"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Library Assistant",
+   "city": "Boston",
+   "country": "United States of America",
+   "startingSalary": "$37,000",
+   "currentSalary": "$37,800"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant to dept. head/general dept. assistant",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "18.00/hour",
+   "currentSalary": "21.47/hour"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant to dept. head/general dept. assistant",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "18.00/hour",
+   "currentSalary": "21.47/hour"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "New York City",
+   "country": "United States of America",
+   "startingSalary": "$55,000.00",
+   "currentSalary": "$59,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Program Coordinator",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$43,000.00",
+   "currentSalary": "$50,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Editor (previously Assistant Editor)",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "30,000 (approx.)",
+   "currentSalary": "62000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant",
+   "city": "D.C.",
+   "country": "United States of America",
+   "startingSalary": "34000",
+   "currentSalary": "35500"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Coordinator",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "42000",
+   "currentSalary": "50000"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Gallery Assistant",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$35,500 ($17/hr) + OT",
+   "currentSalary": "$35,500 ($17/hr) + OT"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "California",
+   "country": "United States of America",
+   "startingSalary": "85000",
+   "currentSalary": "88400"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "communications manager",
+   "city": "paris",
+   "country": "france",
+   "startingSalary": "22 000 €",
+   "currentSalary": "24 000 €"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Registrar",
+   "city": "California",
+   "country": "United States of America",
+   "startingSalary": "$40,000.00",
+   "currentSalary": "$40,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "writer",
+   "city": "large east coast city",
+   "country": "United States of America",
+   "startingSalary": "$60,000",
+   "currentSalary": "$60,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Senior Exhibit Developer",
+   "city": "east Coast",
+   "country": "United States of America",
+   "startingSalary": "58268",
+   "currentSalary": "61666"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Departmental Assistant",
+   "city": "east Coast",
+   "country": "United States of America",
+   "startingSalary": "32000",
+   "currentSalary": "32000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Executive Assistant",
+   "city": "east coast",
+   "country": "United States of America",
+   "startingSalary": "40000",
+   "currentSalary": "59500"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curatorial",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "$50,000",
+   "currentSalary": "$52,000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Exhibits Curator",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "",
+   "currentSalary": "$109,000"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Collections Systems Specialist",
+   "city": "London",
+   "country": "United Kingdom",
+   "startingSalary": "£29,500",
+   "currentSalary": "£32,500"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Visitor services / docent / tour guide (all-in-one)",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$15.00",
+   "currentSalary": "$15.00"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Visitor Services + Tour Guide",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$15 / hour",
+   "currentSalary": "$15 / h"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Guest Services-Admissions Supervisor",
+   "city": "Washington DC",
+   "country": "United States of America",
+   "startingSalary": "29120",
+   "currentSalary": "34008"
+ },
+ {
+   "roleCategory": "Conservation",
+   "role": "Conservator",
+   "city": "Washington, DC",
+   "country": "United States of America",
+   "startingSalary": "38000",
+   "currentSalary": "92000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Exhibit/Graphic Designer",
+   "city": "Michigan",
+   "country": "United States of America",
+   "startingSalary": "$45,000",
+   "currentSalary": "$47,988"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Office Administrator",
+   "city": "Michigan",
+   "country": "United States of America",
+   "startingSalary": "$33,000.00",
+   "currentSalary": "$33,825.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Community Engagement Coordinator",
+   "city": "Chicago",
+   "country": "United States of America",
+   "startingSalary": "$18/hr",
+   "currentSalary": "$48,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Curatorial Assistant",
+   "city": "New York",
+   "country": "United States of America",
+   "startingSalary": "$20/hr",
+   "currentSalary": "$20/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Editor",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$40,000.00",
+   "currentSalary": "$43,000.00"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Publicist",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "55000",
+   "currentSalary": "55000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Social Media Manager",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "50000",
+   "currentSalary": "65000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Senior Financial Analyst",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "46000",
+   "currentSalary": "89000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Curator",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "54000",
+   "currentSalary": "105000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Rights Assistant",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "22.27/hr",
+   "currentSalary": "22.49/hr"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Grant Writer",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$40,000.00",
+   "currentSalary": "$40,000.00"
+ },
+ {
+   "roleCategory": "Operations",
+   "role": "Museum Technician",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$13/hr PT",
+   "currentSalary": "$36,000 FT"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "",
+   "currentSalary": "78000"
+ },
+ {
+   "roleCategory": "Technology Support",
+   "role": "Online Content Manager",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$43,000.00",
+   "currentSalary": "$43,000.00"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Senior Curatorial Assistant",
+   "city": "Los Angeles",
+   "country": "United States of America",
+   "startingSalary": "$45,000.00",
+   "currentSalary": "$49,500.00"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Assistant Curator",
+   "city": "Cincinnati",
+   "country": "United States of America",
+   "startingSalary": "$55,000",
+   "currentSalary": "$55,000"
+ },
+ {
+   "roleCategory": "Curation",
+   "role": "Assistant Curator",
+   "city": "Cincinnati",
+   "country": "United States of America",
+   "startingSalary": "45000",
+   "currentSalary": "55000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Assistant Director",
+   "city": "Cincinnati",
+   "country": "United States of America",
+   "startingSalary": "55000",
+   "currentSalary": "57500"
+ },
+ {
+   "roleCategory": "Education",
+   "role": "Docent Manager",
+   "city": "Cincinnati",
+   "country": "United States of America",
+   "startingSalary": "$32,500",
+   "currentSalary": "$38,000"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Analyst",
+   "city": "Cincinnati",
+   "country": "United States of America",
+   "startingSalary": "$52,000",
+   "currentSalary": "$53,300"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Director of Development",
+   "city": "Cincinnati",
+   "country": "United States of America",
+   "startingSalary": "$85,000",
+   "currentSalary": "$92,400"
+ },
+ {
+   "roleCategory": "Administration",
+   "role": "Graphic Designer",
+   "city": "Cincinnati",
+   "country": "United States of America",
+   "startingSalary": "41240",
+   "currentSalary": "45240"
+ }
+]
