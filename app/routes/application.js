@@ -10,6 +10,7 @@ export default Ember.Route.extend({
     jQuery.getJSON(`http://localhost:5000/getData`).then(countries => {
       countries.map(each => {
         each.country = each.country.toLowerCase();
+        each.city = each.city.toLowerCase();
         return each;
       })
 

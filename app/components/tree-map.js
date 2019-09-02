@@ -26,6 +26,7 @@ export default Ember.Component.extend({
     this._super(...arguments);
   },
   didInsertElement() {
+    var colors = ['#ef9a9a', '#f48fb1', '#b39ddb', '#90caf9', '#80deea', '#80cbc4', '#c5e1a5', '#fff59d', '#ffcc80', '#ffab91'];
     const data = this.get("data");
     let result = data.reduce(function (r, a) {
       r[a.roleCategory] = r[a.roleCategory] || [];
@@ -35,15 +36,18 @@ export default Ember.Component.extend({
     }, Object.create(null));
 
     let groupedArray = [];
+    let i = 0
     for (let b in result) {
       groupedArray.push({
         "name": b,
-        "children": result[b]
+        "children": result[b],
+        "color": colors[i++]
       })
     }
+    this.set('legend', groupedArray);
 
     let finalObject = {
-      "name": "Whole",
+      "name": "Roles",
       "children": groupedArray
     };
 
@@ -54,7 +58,7 @@ export default Ember.Component.extend({
     var fader = function (color) {
         return d3.interpolateRgb(color, "#fff")(0.2);
       },
-      color = d3.scaleOrdinal().range(['#ef9a9a', '#f48fb1', '#b39ddb', '#90caf9', '#80deea', '#80cbc4', '#c5e1a5', '#fff59d', '#ffcc80', '#ffab91']),
+      color = d3.scaleOrdinal().range(colors),
       format = d3.format(",d");
 
     var treemap = d3.treemap()

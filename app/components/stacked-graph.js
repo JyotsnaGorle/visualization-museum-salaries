@@ -113,7 +113,7 @@ export default Ember.Component.extend({
           .style("opacity", 1);
         div.html(d.data.startingSalary.toFixed(2) + ", " + d.data.currentSalary.toFixed(2))
           .style("left", 300 + "px")
-          .style("top", i +20 + "px");
+          .style("top", yScale(d.data.city) + 60 + "px");
       })
       .on("mouseout", function (d) {
         div.style('transition-duration', '.8s')

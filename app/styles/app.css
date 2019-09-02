@@ -48,13 +48,20 @@ h2.title {
   background-color: #eee;
 }
 
-details[open] summary ~ * {
+details[open] summary~* {
   animation: sweep .5s ease-in-out;
 }
 
 @keyframes sweep {
-  0%    {opacity: 0; margin-top: -10px}
-  100%  {opacity: 1; margin-top: 0px}
+  0% {
+    opacity: 0;
+    margin-top: -10px
+  }
+
+  100% {
+    opacity: 1;
+    margin-top: 0px
+  }
 }
 
 .graph {
@@ -68,9 +75,9 @@ details[open] summary ~ * {
 
 .label {
   width: 200px;
-    display: inline-block;
-    text-transform: capitalize;
-    color: #5f5c5c;
+  display: inline-block;
+  text-transform: capitalize;
+  color: #5f5c5c;
 }
 
 .region-detail.hide,
@@ -85,6 +92,48 @@ details[open] summary ~ * {
   padding: 10px;
   -webkit-transition: linear 600ms;
   transition: linear 600ms;
+}
+
+.stacked-graph .legend h6 {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.tree-map .legend {
+  margin-bottom: 5px;
+}
+
+.tree-map .legend h6 {
+  display: flex;
+  margin: 0 auto;
+  flex-direction: row;
+}
+
+.tree-map .legend h6 span {
+  margin-right: 4px;
+  border-radius: 5px;
+  width: 10px;
+  height: 10px; 
+}
+
+.stacked-graph .legend h6::before {
+  content: 'x';
+  background: #b39ddb;
+  height: 20px;
+  width: 30px;
+  color: #b39ddb;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.stacked-graph .legend h6:last-of-type:before {
+  content: 'x';
+  background: #90caf9;
+  height: 20px;
+  width: 30px;
+  color: #90caf9;
+  border-radius: 50%;
+  margin-right: 5px;
 }
 
 .region-detail,
